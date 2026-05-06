@@ -99,7 +99,7 @@
         "Lan xa bố từ năm 2014",
         "Bản chính giấy khai sinh Ukraine bị mất trên đường"
       ],
-      "context": "Hành trình Rostov-on-Don → Moscow → Hà Nội là lần di chuyển lớn đầu tiên. Lan đi cùng bố và sau đó sống với bà ngoại bên mẹ tại Hà Nội.",
+      "context": "Hành trình Rostov-on-Don → Moscow → Hà Nội là lần di chuyển lớn đầu tiên. Lan đi cùng bố và sau đó sống với bà ngoại bên mẹ tại Hà Nội. Lan không hiểu rõ giấy tờ lúc đó; bố là người lớn xử lý toàn bộ thủ tục.",
       "emotion": "Sợ hãi, choáng ngợp, nhớ nhà",
       "color": "yellow",
       "stage": "shock",
@@ -268,7 +268,7 @@
       "points": [
         {
           "label": "Bố",
-          "text": "Theo lời mẹ kể, bố là Nguyễn Mùi Văn, sinh năm 1967, là người Việt sống ở Ukraine. Bố mẹ trước đây sang làm thuê ở xưởng may quần áo tại Odessa. Sau đó bố làm lái xe chở hàng đường dài, thường đi 1-2 lần mỗi tuần, mỗi chuyến khoảng 2-3 ngày. Lan chỉ biết tên bố theo lời mẹ gọi và không chắc cách viết chính xác; có thể là Nguyễn Văn Mùi. Khi Lan quay lại Donetsk thì bố mẹ đã ly dị."
+          "text": "Theo lời mẹ kể, bố là Nguyễn Mùi Văn, sinh năm 1967, là người Việt sống ở Ukraine. Bố mẹ trước đây sang làm thuê ở xưởng may quần áo tại Odessa. Sau đó bố làm lái xe chở hàng đường dài, thường đi 1-2 lần mỗi tuần, mỗi chuyến khoảng 2-3 ngày. Bố mẹ đã ly dị và sau năm 2014 Lan không còn liên lạc với bố hay gia đình bên bố. Lan chỉ biết tên bố theo lời mẹ gọi và không chắc cách viết chính xác; có thể là Nguyễn Văn Mùi."
         },
         {
           "label": "Cuộc gọi cuối",
@@ -380,15 +380,15 @@
         },
         {
           "label": "Nga đến Ba Lan",
-          "text": "Lan nhớ một xe tải lạnh màu trắng, thùng đông lạnh, xung quanh có thùng cá, rất lạnh. Ăn bánh mì đen, xúc xích và uống nước do tài xế đưa."
+          "text": "Lan nhớ rời rạc Ba Lan qua chữ viết/biển hiệu. Có thể còn Đức hoặc Pháp, nhưng Lan không chắc thứ tự và không chắc chính xác đã qua mấy nước."
         },
         {
-          "label": "Ba Lan đến Đức",
-          "text": "Lan chuyển sang xe van màu xám, không có ghế sau, nằm trên tấm bạt bẩn, ngửi thấy mùi xăng, nhớt và khói. Có lúc thấy cối xay gió và đèn đỏ nhấp nháy."
+          "label": "Xe van màu xám",
+          "text": "Lan nhớ chuyển sang xe van màu xám, không có ghế sau, nằm trên tấm bạt bẩn, ngửi thấy mùi xăng, nhớt và khói. Có lúc thấy cối xay gió và đèn đỏ nhấp nháy."
         },
         {
-          "label": "Đức, Bỉ, Pháp",
-          "text": "Lan nhớ một xe du lịch cũ màu đen, rèm che kín. Tài xế nói tiếng Nga giọng lạ, dọa không được nhìn ra ngoài. Có biển Lille và Calais."
+          "label": "Các biển hiệu rời rạc",
+          "text": "Lan nhớ một xe du lịch cũ màu đen, rèm che kín. Có lúc nghe hoặc nhìn thấy những chữ như Lille, Calais, nhưng không chắc mình đang ở nước nào tại thời điểm đó."
         },
         {
           "label": "Phà sang Anh",
@@ -407,7 +407,7 @@
       "points": [
         {
           "label": "Điện thoại cũ",
-          "text": "Lan có một điện thoại cũ Meizu từ thời Donetsk. Sau đó Sergey lấy Meizu và đưa cho Lan một Samsung cũ."
+          "text": "Lan có một điện thoại cũ Meizu ở giai đoạn Donetsk/Rostov. Sau đó Sergey lấy Meizu và đưa cho Lan một Samsung cũ."
         },
         {
           "label": "Điện thoại Samsung",
@@ -426,7 +426,7 @@
       "points": [
         {
           "label": "Sức khỏe thể chất",
-          "text": "Lan bị đau lưng vì phải nằm trên sàn xe và trong thùng xe lâu. Có lúc cổ tay bị bầm tím do bị giữ, bị kéo mạnh hoặc bị chặn bằng dây."
+          "text": "Lan nhớ mình rất đau lưng và mỏi người vì phải nằm trên sàn xe và trong thùng xe lâu. Nếu có vết bầm hoặc dấu vết nào, Lan chỉ nên nói đúng những gì còn thấy hoặc còn nhớ chắc."
         },
         {
           "label": "Sức khỏe tinh thần",
