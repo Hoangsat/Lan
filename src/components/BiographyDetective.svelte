@@ -236,6 +236,7 @@
       {/each}
     </div>
 
+    <a class="read-link" href="/biography/">Đọc toàn bộ tiểu sử</a>
     <button type="button" class="clue-button" on:click={showRandomClue}>Câu hỏi ngẫu nhiên</button>
   </section>
 
@@ -580,7 +581,7 @@
 
   .control-band {
     display: grid;
-    grid-template-columns: auto minmax(0, 1fr) auto;
+    grid-template-columns: auto minmax(0, 1fr) auto auto;
     gap: 14px;
     align-items: center;
     padding: 16px;
@@ -601,6 +602,7 @@
 
   .mode-switch button,
   .filters button,
+  .read-link,
   .clue-button,
   .map-toolbar button,
   .mobile-back {
@@ -618,10 +620,23 @@
   }
 
   .filters button,
+  .read-link,
   .clue-button,
   .map-toolbar button,
   .mobile-back {
     padding: 0 14px;
+  }
+
+  .read-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+
+  .read-link:focus-visible {
+    outline: 3px solid #135fbc;
+    outline-offset: 3px;
   }
 
   .mode-switch button.active,
