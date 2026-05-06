@@ -64,7 +64,7 @@
       "date": "2009-2014",
       "title": "Tuổi thơ ở Donetsk trước chiến sự",
       "shortTitle": "Donetsk",
-      "description": "Lan sinh tại Donetsk, sống cùng mẹ trong khu chung cư ở quận Kyivskiy và bắt đầu lớp 1 tại trường số 55.",
+      "description": "Lan sinh tại Donetsk, sống cùng mẹ trong khu chung cư 9 tầng ở quận Kyivskiy và bắt đầu lớp 1 tại trường số 51.",
       "type": ["loss"],
       "causes": [
         "Gia đình sống ổn định tại Donetsk trước khi chiến sự lan rộng",
@@ -97,9 +97,9 @@
       ],
       "consequences": [
         "Lan xa bố từ năm 2014",
-        "Bản chính giấy khai sinh Ukraine bị mất trên đường"
+        "Lan không tự giữ giấy tờ; người lớn xử lý thủ tục và giấy tờ không còn trong tay em"
       ],
-      "context": "Hành trình Rostov-on-Don → Moscow → Hà Nội là lần di chuyển lớn đầu tiên. Lan đi cùng bố và sau đó sống với bà ngoại bên mẹ tại Hà Nội. Lan không hiểu rõ giấy tờ lúc đó; bố là người lớn xử lý toàn bộ thủ tục.",
+      "context": "Hành trình Rostov-on-Don → Moscow → Hà Nội là lần di chuyển lớn đầu tiên. Lan đi cùng bố, phải đi máy bay và chuyển chặng nhưng không nhớ hãng hàng không. Lan không hiểu rõ giấy tờ lúc đó; bố là người lớn xử lý toàn bộ thủ tục.",
       "emotion": "Sợ hãi, choáng ngợp, nhớ nhà",
       "color": "yellow",
       "stage": "shock",
@@ -189,7 +189,7 @@
       "date": "2014-2022",
       "title": "Mất giấy tờ và bị người lớn kiểm soát hồ sơ",
       "shortTitle": "Mất giấy tờ",
-      "description": "Bản chính giấy khai sinh mất năm 2014, bản sao không còn trong tay Lan sau khi sang Nga, nhiều khả năng trong giai đoạn Rostov năm 2022, còn giấy tờ thường do người lớn giữ.",
+      "description": "Lan không nhớ rõ giấy tờ từng được dùng thế nào. Giấy tờ thường do người lớn giữ; sau khi sang Nga, bản sao cũng không còn trong tay Lan, nhiều khả năng từ giai đoạn Rostov năm 2022.",
       "type": ["loss", "cause_of_immigration"],
       "causes": [
         "Lan di chuyển qua nhiều nước khi còn nhỏ",
@@ -318,7 +318,7 @@
       "points": [
         {
           "label": "Công việc của mẹ",
-          "text": "Mẹ làm ở cửa hàng quần áo, thường đi làm từ 9 giờ sáng đến 4-5 giờ chiều. Tiền lương ít, có hôm hai mẹ con chỉ ăn bánh mì đen và xúc xích."
+          "text": "Mẹ bán quần áo ở chợ, nơi có nhiều ki-ốt nhỏ, thường đi làm từ 9 giờ sáng đến 4-5 giờ chiều. Tiền lương ít, có hôm hai mẹ con chỉ ăn bánh mì đen và xúc xích."
         },
         {
           "label": "Mariupol",
@@ -631,7 +631,7 @@
         },
         {
           "label": "Giấy tờ ở đâu?",
-          "text": "Bản chính giấy khai sinh mất năm 2014 trên đường sang Việt Nam. Bản sao không còn trong tay Lan sau khi sang Nga, nhiều khả năng trong giai đoạn Rostov năm 2022. Lan không tự ý vứt giấy tờ."
+          "text": "Lan không nhớ rõ giấy tờ từng được dùng thế nào vì khi còn nhỏ người lớn luôn giữ và xử lý. Bản sao không còn trong tay Lan sau khi sang Nga, nhiều khả năng trong giai đoạn Rostov năm 2022. Lan không tự ý vứt giấy tờ."
         },
         {
           "label": "Vì sao không gọi cảnh sát Nga?",
