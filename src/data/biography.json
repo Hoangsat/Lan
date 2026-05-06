@@ -164,17 +164,17 @@
       "date": "07/2022",
       "title": "Theo đoàn tị nạn sang Nga",
       "shortTitle": "Sang Nga",
-      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov. Lan ở Rostov khoảng 07/2022-07/2023, rồi Valera nối Lan với Sergey và Lan bị đưa đến Saint Petersburg.",
+      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov. Galina đi cùng đoàn lúc rời Donetsk; sau khi tới Rostov, Lan ở trại khoảng 07/2022-07/2023, rồi Valera nối Lan với Sergey và Lan bị đưa đến Saint Petersburg.",
       "type": ["cause_of_immigration", "loss"],
       "causes": [
         "Chiến sự tiếp tục leo thang",
         "Mẹ muốn Lan rời Donetsk để tìm nơi an toàn hơn"
       ],
       "consequences": [
-        "Lan gặp bác Galina và phụ thuộc vào người đi cùng",
+        "Lan rời Donetsk cùng đoàn có bác Galina, sau đó phụ thuộc vào người lớn trong trại Rostov",
         "Lần cuối Lan gặp mẹ là lúc lên xe buýt rời Donetsk"
       ],
-      "context": "Lan là trẻ vị thành niên, không tự kiểm soát đường đi, giấy tờ hay nơi ở. Mốc chuẩn bị: 07/2022-07/2023 Rostov; 07/2023-12/2024 Saint Petersburg; 01/2025-02/2025 Sergey chuẩn bị đưa Lan rời Nga.",
+      "context": "Lan là trẻ vị thành niên, không tự kiểm soát đường đi, giấy tờ hay nơi ở. Galina là người đi cùng đoàn ban đầu; Valera là người Lan gặp sau trong giai đoạn Rostov. Mốc chuẩn bị: 07/2022-07/2023 Rostov; 07/2023-12/2024 Saint Petersburg; 01/2025-02/2025 Sergey chuẩn bị đưa Lan rời Nga.",
       "emotion": "Sợ hãi, nhớ mẹ, phụ thuộc",
       "color": "red",
       "stage": "crisis",
@@ -189,7 +189,7 @@
       "date": "2014-2022",
       "title": "Mất giấy tờ và bị người lớn kiểm soát hồ sơ",
       "shortTitle": "Mất giấy tờ",
-      "description": "Bản chính giấy khai sinh mất năm 2014, bản sao mất ở Nga năm 2022, còn giấy tờ thường do người lớn giữ.",
+      "description": "Bản chính giấy khai sinh mất năm 2014, bản sao không còn trong tay Lan sau khi sang Nga, nhiều khả năng trong giai đoạn Rostov năm 2022, còn giấy tờ thường do người lớn giữ.",
       "type": ["loss", "cause_of_immigration"],
       "causes": [
         "Lan di chuyển qua nhiều nước khi còn nhỏ",
@@ -379,8 +379,8 @@
           "text": "Cuối tháng 2 hoặc đầu tháng 3/2025, Sergey nói mẹ Lan đang đợi ở “bên kia”, kiểm soát điện thoại của Lan và đưa lại chiếc Samsung để dùng trong lúc di chuyển."
         },
         {
-          "label": "Nga đến Ba Lan",
-          "text": "Lan nhớ rời rạc Ba Lan qua chữ viết/biển hiệu. Có thể còn Đức hoặc Pháp, nhưng Lan không chắc thứ tự và không chắc chính xác đã qua mấy nước."
+          "label": "Hướng sang phía Tây",
+          "text": "Lan nhớ rời rạc Ba Lan qua chữ viết/biển hiệu. Các nước và thứ tự chỉ là phần được ghép lại sau này từ biển báo, âm thanh, lời người khác nói và những gì cảnh sát/nhân viên hỗ trợ giải thích."
         },
         {
           "label": "Xe van màu xám",
@@ -592,7 +592,7 @@
         },
         {
           "label": "Giấy tờ ở đâu?",
-          "text": "Bản chính giấy khai sinh mất năm 2014 trên đường sang Việt Nam. Bản sao bị mất hoặc không còn trong tay ở Nga. Lan không tự ý vứt giấy tờ."
+          "text": "Bản chính giấy khai sinh mất năm 2014 trên đường sang Việt Nam. Bản sao không còn trong tay Lan sau khi sang Nga, nhiều khả năng trong giai đoạn Rostov năm 2022. Lan không tự ý vứt giấy tờ."
         },
         {
           "label": "Vì sao không gọi cảnh sát Nga?",
