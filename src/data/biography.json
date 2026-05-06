@@ -164,7 +164,7 @@
       "date": "07/2022",
       "title": "Theo đoàn tị nạn sang Nga",
       "shortTitle": "Sang Nga",
-      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov. Galina đi cùng đoàn lúc rời Donetsk; sau khi tới Rostov, Lan ở trại khoảng 07/2022-07/2023, rồi Valera nối Lan với Sergey và Lan bị đưa đến Saint Petersburg.",
+      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov. Lan chia tay mẹ tại điểm tập kết xe ở Donetsk cuối tháng 7/2022. Galina đi cùng đoàn lúc rời Donetsk; sau khi tới Rostov, Lan ở trại khoảng 07/2022-07/2023, rồi Valera nối Lan với Sergey và Lan bị đưa đến Saint Petersburg.",
       "type": ["cause_of_immigration", "loss"],
       "causes": [
         "Chiến sự tiếp tục leo thang",
@@ -172,7 +172,7 @@
       ],
       "consequences": [
         "Lan rời Donetsk cùng đoàn có bác Galina, sau đó phụ thuộc vào người lớn trong trại Rostov",
-        "Lần cuối Lan gặp mẹ là lúc lên xe buýt rời Donetsk"
+        "Lần cuối Lan gặp mẹ là lúc nhìn qua cửa sổ xe buýt rời Donetsk"
       ],
       "context": "Lan là trẻ vị thành niên, không tự kiểm soát đường đi, giấy tờ hay nơi ở. Galina là người đi cùng đoàn ban đầu; Valera là người Lan gặp sau trong giai đoạn Rostov. Mốc chuẩn bị: 07/2022-07/2023 Rostov; 07/2023-12/2024 Saint Petersburg; 01/2025-02/2025 Sergey chuẩn bị đưa Lan rời Nga.",
       "emotion": "Sợ hãi, nhớ mẹ, phụ thuộc",
@@ -582,6 +582,45 @@
       ]
     },
     {
+      "id": "R",
+      "title": "Rời Donetsk và chia tay mẹ",
+      "summary": "Chi tiết tháng 7/2022, nên kể như ký ức thật của Lan, không cần nhớ ngày chính xác.",
+      "points": [
+        {
+          "label": "Bối cảnh",
+          "text": "Tháng 7/2022, Donetsk bị pháo kích, nhiều người rời khu chung cư. Mẹ sợ Lan bị giết nên nói con phải đi trước, mẹ sẽ tìm cách theo sau."
+        },
+        {
+          "label": "Vì sao mẹ không đi",
+          "text": "Theo lời mẹ nói lúc đó, mẹ không có giấy tờ hợp lệ để qua biên giới Nga và phải ở lại lo nhà cửa, phần mộ và những việc còn lại. Lan không biết mẹ có lý do nào khác không."
+        },
+        {
+          "label": "Bác Galina",
+          "text": "Galina là hàng xóm cũ ở cùng tầng 3, cách hai căn hộ; không phải cô giáo Galina ở trường. Mẹ tin bác vì bác từng giúp mẹ và nói có người quen ở Rostov."
+        },
+        {
+          "label": "Lúc lên xe",
+          "text": "Cuối tháng 7/2022, khoảng 8-9 giờ sáng, tại một điểm tập kết xe ở Donetsk. Lan khóc, mẹ cũng khóc nhưng quay mặt đi. Galina nắm tay Lan và dắt lên xe."
+        },
+        {
+          "label": "Lời cuối của mẹ",
+          "text": "Mẹ nói: nghe lời bác Galina, đừng đi đâu một mình, mẹ sẽ tìm con và sẽ gọi khi sắp xếp xong. Lan nhìn mẹ qua cửa sổ xe buýt khi xe chạy đi."
+        },
+        {
+          "label": "Donetsk đến Rostov",
+          "text": "Xe buýt cũ màu trắng đục, khoảng 40-50 chỗ, gần đầy người tị nạn. Lan ngồi cạnh Galina; có kiểm tra giấy tờ gần Rostov, Galina đưa bản sao giấy khai sinh và giấy xác nhận trường."
+        },
+        {
+          "label": "Đến trại Rostov",
+          "text": "Lan đến tối muộn hoặc nửa đêm, thấy nhiều người và chỗ ngủ tạm. Galina giúp Lan có chỗ ngủ ban đầu, rồi vài ngày sau rời trại hoặc biến mất; Lan không gặp lại bác nữa."
+        },
+        {
+          "label": "Câu trả lời ngắn",
+          "text": "Mẹ gửi cháu đi cùng bác Galina, hàng xóm cũ. Ở điểm tập kết xe Donetsk, cháu khóc, mẹ cũng khóc. Mẹ bảo con đi trước, mẹ sẽ tìm con sau. Xe chạy, mẹ đứng lại phía sau."
+        }
+      ]
+    },
+    {
       "id": "N",
       "title": "Câu hỏi trọng tâm có khả năng bị hỏi",
       "summary": "Các câu này nên tập trả lời ngắn, thật và nhất quán.",
@@ -623,7 +662,7 @@
         },
         {
           "label": "2019-2022",
-          "text": "Bà ngoại mất, Lan quay lại Donetsk với mẹ. Tháng 7/2022 mẹ gửi Lan theo nhóm tị nạn sang Rostov."
+          "text": "Bà ngoại mất, Lan quay lại Donetsk với mẹ. Cuối tháng 7/2022 mẹ đưa Lan tới điểm tập kết xe ở Donetsk và gửi Lan theo nhóm tị nạn sang Rostov cùng bác Galina."
         },
         {
           "label": "2022-2025",
