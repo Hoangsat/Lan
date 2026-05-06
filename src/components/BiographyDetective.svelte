@@ -66,6 +66,27 @@
     cardExpanded = true;
   }
 
+  function selectStage(stageId) {
+    const visibleStageEvent = filteredEvents.find((event) => event.stage === stageId);
+    const stageEvent = visibleStageEvent ?? events.find((event) => event.stage === stageId);
+
+    if (!stageEvent) {
+      return;
+    }
+
+    if (!visibleStageEvent) {
+      selectedFilter = "all";
+    }
+
+    activeId = stageEvent.id;
+    mode = "timeline";
+    cardExpanded = true;
+  }
+
+  function hasStageEvents(stageId) {
+    return events.some((event) => event.stage === stageId);
+  }
+
   function setMode(nextMode) {
     mode = nextMode;
     cardExpanded = false;
@@ -243,15 +264,18 @@
   <section class="journey" aria-label="Tiến trình nhập cư">
     <div class="journey-track">
       {#each stages as stage, index}
-        <div
+        <button
+          type="button"
           class:current={index === activeStageIndex}
           class:complete={index < activeStageIndex}
           class="journey-step"
           aria-current={index === activeStageIndex ? "step" : undefined}
+          disabled={!hasStageEvents(stage.id)}
+          on:click={() => selectStage(stage.id)}
         >
           <span class="step-index">{index + 1}</span>
           <span>{stage.label}</span>
-        </div>
+        </button>
       {/each}
     </div>
   </section>
@@ -672,7 +696,26 @@
     border: 1px solid #cbd4cc;
     color: #46544e;
     background: #f8faf7;
+    font: inherit;
     font-weight: 800;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .journey-step:hover:not(:disabled),
+  .journey-step:focus-visible {
+    border-color: #121816;
+    box-shadow: 0 8px 24px rgba(18, 24, 22, 0.1);
+  }
+
+  .journey-step:focus-visible {
+    outline: 3px solid #135fbc;
+    outline-offset: 3px;
+  }
+
+  .journey-step:disabled {
+    cursor: not-allowed;
+    opacity: 0.58;
   }
 
   .journey-step.complete {
