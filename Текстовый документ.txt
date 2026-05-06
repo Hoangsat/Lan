@@ -1,4 +1,4 @@
-Dưới đây là bản dịch và chỉnh sửa theo yêu cầu của bạn.
+﻿Dưới đây là bản dịch và chỉnh sửa theo yêu cầu của bạn.
 
 Tôi đã:
 1.  **Dịch toàn bộ sang tiếng Việt.**
@@ -82,9 +82,9 @@ Bạn có thể gửi bản này để nhân vật chuẩn bị cho buổi phỏ
 - **Các nước đã qua:** Cháu nhớ Ba Lan (chữ viết trên cửa hàng) và nhớ Bỉ.
 - **Nơi ngủ nghỉ:** Cháu ngủ ở nhà người lạ, trong xe, và có một lần ngủ trong nhà kho.
 - **Giấy tờ:** Cháu không dùng hộ chiếu của người khác, cũng không tự ý vứt giấy tờ.
-- **Chuyện gì xảy ra ở Anh:** Đoàn xe dừng lại ở một khu công nghiệp cảng tại **Glasgow**. Lúc đó trời mưa rất to. Cháu bị lạc khỏi đoàn.
+- **Chuyện gì xảy ra ở Anh:** Đoàn xe dừng lại ở một khu công nghiệp cảng tại **Edinburgh**. Lúc đó trời mưa rất to. Cháu bị lạc khỏi đoàn.
 - **Được cứu:** Một tài xế xe tải đã tìm thấy cháu vào buổi sáng và đưa cháu đến đồn cảnh sát.
-- **Ấn tượng đầu tiên:** Cảnh sát Glasgow rất thân thiện, họ đã cho cháu một tách trà nóng.
+- **Ấn tượng đầu tiên:** Cảnh sát Edinburgh rất thân thiện, họ đã cho cháu một tách trà nóng.
 
 #### 10. CÔNG VIỆC "ZAKLADCHITSA" (GIAO HÀNG THUÊ TẠI NGA)
 
@@ -104,7 +104,7 @@ Bạn có thể gửi bản này để nhân vật chuẩn bị cho buổi phỏ
 - **Nỗi sợ lớn nhất:** Không bao giờ gặp lại mẹ.
 - **Lần cuối gặp bố:** Năm 2014.
 - **Lần cuối gặp mẹ:** Năm 2022 (lúc lên xe buýt rời Donetsk).
-- **Điều khó khăn nhất:** Bị lạc ở Glasgow giữa đêm mưa, không biết tiếng Anh, không một ai quen biết.
+- **Điều khó khăn nhất:** Bị lạc ở Edinburgh giữa đêm mưa, không biết tiếng Anh, không một ai quen biết.
 - **Mong muốn duy nhất:** Cháu chỉ muốn tìm được mẹ.
 - **Định nghĩa về nhà:** "Nhà là nơi có mẹ".
 

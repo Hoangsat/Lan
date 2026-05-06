@@ -4,9 +4,9 @@
     "age": 17,
     "father": "Nguyễn Mùi Văn, 1967",
     "mother": "Nguyễn Thị Thanh Thảo, 1979",
-    "route": "Donetsk → Hà Nội → Donetsk → Rostov → Saint Petersburg → Glasgow",
+    "route": "Donetsk → Hà Nội → Donetsk → Rostov → Saint Petersburg → Edinburgh",
     "title": "Tiểu sử như một hồ sơ điều tra",
-    "summary": "Lan không có một hành trình nhập cư thẳng hàng. Mỗi mốc là một manh mối: vì sao em phải rời đi, ai kiểm soát giấy tờ, điều gì khiến em dễ bị tổn thương, và hệ quả nào dẫn đến Glasgow.",
+    "summary": "Lan không có một hành trình nhập cư thẳng hàng. Mỗi mốc là một manh mối: vì sao em phải rời đi, ai kiểm soát giấy tờ, điều gì khiến em dễ bị tổn thương, và hệ quả nào dẫn đến Edinburgh.",
     "caseNumber": "UA-VN-RU-UK-2009-2025"
   },
   "filters": [
@@ -237,16 +237,16 @@
     {
       "id": "2025_den_anh",
       "date": "2025",
-      "title": "Đến Glasgow và được cảnh sát hỗ trợ",
-      "shortTitle": "Glasgow",
-      "description": "Lan đi qua nhiều chặng ban đêm, bị lạc khỏi đoàn tại khu công nghiệp cảng ở Glasgow và được tài xế xe tải đưa đến cảnh sát.",
+      "title": "Đến Edinburgh và được cảnh sát hỗ trợ",
+      "shortTitle": "Edinburgh",
+      "description": "Lan đi qua nhiều chặng ban đêm, bị lạc khỏi đoàn tại khu công nghiệp cảng ở Edinburgh và được tài xế xe tải đưa đến cảnh sát.",
       "type": ["achievement", "decision", "loss"],
       "causes": [
         "Sergey nói rằng mẹ Lan đang đợi em ở châu Âu",
         "Lan muốn tìm mẹ và thoát khỏi sự kiểm soát ở Nga"
       ],
       "consequences": [
-        "Lan lần đầu tiếp xúc với cảnh sát Glasgow trong trạng thái cần bảo vệ",
+        "Lan lần đầu tiếp xúc với cảnh sát Edinburgh trong trạng thái cần bảo vệ",
         "Câu hỏi chính trở thành: giấy tờ, điện thoại và lời kể có khớp với hành trình không?"
       ],
       "context": "Lan không biết tiếng Anh, không có tiền riêng và gần như không có dữ liệu điện thoại trong giai đoạn 2022-2025 vì thiết bị cũ bị tịch thu.",
