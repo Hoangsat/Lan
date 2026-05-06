@@ -1,0 +1,27 @@
+---
+import BiographyDetective from "../components/BiographyDetective.svelte";
+import biography from "../data/biography.json";
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Trang tiểu sử nhập cư dạng hồ sơ điều tra, giúp người đọc khám phá nguyên nhân, hệ quả và bối cảnh của từng quyết định."
+    />
+    <title>Hồ sơ nhập cư của Nguyễn Thị Lan</title>
+  </head>
+  <body>
+    <BiographyDetective
+      client:load
+      person={biography.person}
+      events={biography.events}
+      filters={biography.filters}
+      stages={biography.stages}
+    />
+  </body>
+</html>

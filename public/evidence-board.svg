@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Investigation board with route and documents</title>
+  <desc id="desc">A compact visual of case files, pins, and connecting route lines.</desc>
+  <rect width="720" height="420" fill="#f8faf7"/>
+  <path d="M76 96h168v112H76z" fill="#ffffff" stroke="#1d2a25" stroke-width="4"/>
+  <path d="M102 130h116M102 158h88M102 186h104" stroke="#52615a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M454 68h164v130H454z" fill="#ffffff" stroke="#1d2a25" stroke-width="4"/>
+  <path d="M486 105h100M486 135h74M486 165h92" stroke="#52615a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M166 280h190v92H166z" fill="#ffffff" stroke="#1d2a25" stroke-width="4"/>
+  <path d="M194 312h132M194 342h96" stroke="#52615a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M188 98C260 54 342 52 462 104M244 208c76 56 128 76 218 88M532 198c-20 74-82 118-176 128" fill="none" stroke="#d49a16" stroke-width="5" stroke-linecap="round" stroke-dasharray="11 14"/>
+  <circle cx="188" cy="98" r="14" fill="#b9363d"/>
+  <circle cx="462" cy="104" r="14" fill="#24775b"/>
+  <circle cx="244" cy="208" r="14" fill="#d49a16"/>
+  <circle cx="532" cy="198" r="14" fill="#b9363d"/>
+  <circle cx="356" cy="326" r="14" fill="#24775b"/>
+  <path d="M573 272l54 54m-9-77l-69 69" stroke="#1d2a25" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="536" cy="236" r="34" fill="none" stroke="#1d2a25" stroke-width="12"/>
+</svg>

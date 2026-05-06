@@ -1,0 +1,261 @@
+{
+  "person": {
+    "name": "Nguyễn Thị Lan",
+    "age": 17,
+    "route": "Donetsk → Hà Nội → Donetsk → Rostov → Saint Petersburg → Glasgow",
+    "title": "Tiểu sử như một hồ sơ điều tra",
+    "summary": "Lan không có một hành trình nhập cư thẳng hàng. Mỗi mốc là một manh mối: vì sao em phải rời đi, ai kiểm soát giấy tờ, điều gì khiến em dễ bị tổn thương, và hệ quả nào dẫn đến Glasgow.",
+    "caseNumber": "UA-VN-RU-UK-2009-2025"
+  },
+  "filters": [
+    {
+      "id": "all",
+      "label": "Tất cả",
+      "shortLabel": "Tất cả"
+    },
+    {
+      "id": "cause_of_immigration",
+      "label": "Nguyên nhân nhập cư",
+      "shortLabel": "Nguyên nhân"
+    },
+    {
+      "id": "loss",
+      "label": "Sốc văn hóa / mất mát",
+      "shortLabel": "Mất mát"
+    },
+    {
+      "id": "achievement",
+      "label": "Thành tựu / thích nghi",
+      "shortLabel": "Thành tựu"
+    },
+    {
+      "id": "decision",
+      "label": "Khoảnh khắc quyết định",
+      "shortLabel": "Quyết định"
+    }
+  ],
+  "stages": [
+    {
+      "id": "shock",
+      "label": "Sốc"
+    },
+    {
+      "id": "crisis",
+      "label": "Khủng hoảng"
+    },
+    {
+      "id": "adaptation",
+      "label": "Thích nghi"
+    },
+    {
+      "id": "integration",
+      "label": "Hòa nhập"
+    },
+    {
+      "id": "rooting",
+      "label": "Bén rễ"
+    }
+  ],
+  "events": [
+    {
+      "id": "2009_2014_donetsk",
+      "date": "2009-2014",
+      "title": "Tuổi thơ ở Donetsk trước chiến sự",
+      "shortTitle": "Donetsk",
+      "description": "Lan sinh tại Donetsk, sống cùng mẹ trong khu chung cư ở quận Kyivskiy và bắt đầu lớp 1 tại trường số 55.",
+      "type": ["loss"],
+      "causes": [
+        "Gia đình sống ổn định tại Donetsk trước khi chiến sự lan rộng",
+        "Bố là tài xế đường dài, mẹ làm công nhân tại nhà máy bánh kẹo"
+      ],
+      "consequences": [
+        "Lan có ký ức rõ về nhà, trường học và bạn bè",
+        "Năm 2014, chiến sự biến nơi ở thành vùng nguy hiểm"
+      ],
+      "context": "Donetsk chuyển từ không gian tuổi thơ quen thuộc thành điểm xuất phát của một chuỗi di dời bắt buộc.",
+      "emotion": "Gắn bó, ngây thơ, rồi bất an",
+      "color": "red",
+      "stage": "shock",
+      "linked_events": ["2014_sang_viet_nam"],
+      "map": {
+        "x": 120,
+        "y": 120
+      }
+    },
+    {
+      "id": "2014_sang_viet_nam",
+      "date": "2014",
+      "title": "Được gửi sang Việt Nam để tránh chiến sự",
+      "shortTitle": "Sang Việt Nam",
+      "description": "Bố gửi Lan theo một người quen từ Rostov-on-Don qua Moscow đến Hà Nội để em được an toàn.",
+      "type": ["cause_of_immigration", "decision", "loss"],
+      "causes": [
+        "Chiến sự xảy ra ở Donetsk",
+        "Bố muốn đưa Lan ra khỏi khu vực nguy hiểm"
+      ],
+      "consequences": [
+        "Lan xa bố từ năm 2014",
+        "Bản chính giấy khai sinh Ukraine bị mất trên đường"
+      ],
+      "context": "Hành trình Rostov-on-Don → Moscow → Hà Nội là lần di chuyển lớn đầu tiên, khi Lan còn nhỏ và phụ thuộc hoàn toàn vào người lớn.",
+      "emotion": "Sợ hãi, choáng ngợp, nhớ nhà",
+      "color": "yellow",
+      "stage": "shock",
+      "linked_events": ["2014_2018_ha_noi", "2022_mat_giay_to"],
+      "map": {
+        "x": 300,
+        "y": 80
+      }
+    },
+    {
+      "id": "2014_2018_ha_noi",
+      "date": "2014-2018",
+      "title": "Sống ở Hà Nội và học lại ngôn ngữ",
+      "shortTitle": "Hà Nội",
+      "description": "Lan sống với bà ngoại trong khu phố cổ, học tại Trường Tiểu học Trưng Vương và dần nói tiếng Việt thành thạo.",
+      "type": ["achievement", "loss"],
+      "causes": [
+        "Gia đình chọn Việt Nam như nơi an toàn hơn Donetsk",
+        "Bà ngoại Trần Thị Hoa là người chăm sóc chính"
+      ],
+      "consequences": [
+        "Lan hội nhập vào môi trường Việt Nam",
+        "Tiếng Nga yếu dần sau nhiều năm xa Ukraine"
+      ],
+      "context": "Giai đoạn Hà Nội giúp Lan có điểm tựa ngôn ngữ và gia đình, nhưng cũng làm đứt đoạn khả năng chứng minh liên tục về giấy tờ và học tập.",
+      "emotion": "Lạc lõng ban đầu, rồi thích nghi",
+      "color": "green",
+      "stage": "adaptation",
+      "linked_events": ["2019_ve_donetsk"],
+      "map": {
+        "x": 470,
+        "y": 165
+      }
+    },
+    {
+      "id": "2019_ve_donetsk",
+      "date": "2019-2022",
+      "title": "Trở về Donetsk sau khi bà ngoại mất",
+      "shortTitle": "Trở về",
+      "description": "Sau khi bà ngoại mất, Lan cùng mẹ quay lại Donetsk, sống ở căn hộ cũ và học lớp 4 tại trường số 12.",
+      "type": ["decision", "loss"],
+      "causes": [
+        "Bà ngoại mất cuối năm 2018",
+        "Hàng xóm báo tin cho mẹ Lan"
+      ],
+      "consequences": [
+        "Lan mất điểm tựa chăm sóc ở Việt Nam",
+        "Khó học lại bằng tiếng Nga vì đã xa cách quá lâu"
+      ],
+      "context": "Việc quay lại Donetsk không phải trở về một quê nhà ổn định, mà là quay về một môi trường đã bị chiến sự và mất mát làm thay đổi.",
+      "emotion": "Buồn, hụt hẫng, mất phương hướng",
+      "color": "yellow",
+      "stage": "crisis",
+      "linked_events": ["2022_sang_nga"],
+      "map": {
+        "x": 620,
+        "y": 95
+      }
+    },
+    {
+      "id": "2022_sang_nga",
+      "date": "07/2022",
+      "title": "Theo đoàn tị nạn sang Nga",
+      "shortTitle": "Sang Nga",
+      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov rồi đến trung tâm tạm trú ở Saint Petersburg.",
+      "type": ["cause_of_immigration", "loss"],
+      "causes": [
+        "Chiến sự tiếp tục leo thang",
+        "Mẹ muốn Lan rời Donetsk để tìm nơi an toàn hơn"
+      ],
+      "consequences": [
+        "Lan gặp bác Galina và phụ thuộc vào người đi cùng",
+        "Lần cuối Lan gặp mẹ là lúc lên xe buýt rời Donetsk"
+      ],
+      "context": "Lan là trẻ vị thành niên, không tự kiểm soát đường đi, giấy tờ hay nơi ở trong giai đoạn di tản.",
+      "emotion": "Sợ hãi, nhớ mẹ, phụ thuộc",
+      "color": "red",
+      "stage": "crisis",
+      "linked_events": ["2022_mat_giay_to", "2022_sergey"],
+      "map": {
+        "x": 300,
+        "y": 285
+      }
+    },
+    {
+      "id": "2022_mat_giay_to",
+      "date": "2014-2022",
+      "title": "Mất giấy tờ và bị người lớn kiểm soát hồ sơ",
+      "shortTitle": "Mất giấy tờ",
+      "description": "Bản chính giấy khai sinh mất năm 2014, bản sao mất ở Nga năm 2022, còn giấy tờ thường do người lớn giữ.",
+      "type": ["loss", "cause_of_immigration"],
+      "causes": [
+        "Lan di chuyển qua nhiều nước khi còn nhỏ",
+        "Người lớn giữ giấy tờ với lý do an toàn"
+      ],
+      "consequences": [
+        "Khó chứng minh danh tính và hành trình",
+        "Lan dễ bị phụ thuộc vào người kiểm soát giấy tờ"
+      ],
+      "context": "Mất giấy tờ không chỉ là sự cố hành chính; nó làm Lan khó tự bảo vệ và khó giải thích nhất quán câu chuyện của mình.",
+      "emotion": "Bất lực, lo sợ bị nghi ngờ",
+      "color": "red",
+      "stage": "crisis",
+      "linked_events": ["2022_sergey", "2025_den_anh"],
+      "map": {
+        "x": 520,
+        "y": 350
+      }
+    },
+    {
+      "id": "2022_sergey",
+      "date": "2022-2025",
+      "title": "Bị Sergey ép làm việc giao gói tại Nga",
+      "shortTitle": "Sergey",
+      "description": "Sergey tiếp cận Lan ở nơi tạm trú, đưa em ra ngoài và ép giấu các gói nhỏ rồi gửi tọa độ qua điện thoại.",
+      "type": ["loss"],
+      "causes": [
+        "Lan không có người giám hộ đáng tin cậy bên cạnh",
+        "Thiếu giấy tờ và sợ cảnh sát khiến em không dám tìm trợ giúp"
+      ],
+      "consequences": [
+        "Điện thoại cũ bị tịch thu",
+        "Lan bị đe dọa phải làm việc để trả tiền ăn, ở và di chuyển"
+      ],
+      "context": "Tình tiết này cho thấy nguy cơ bóc lột trẻ vị thành niên trong di cư cưỡng bức: người kiểm soát chỗ ở, điện thoại và nỗi sợ cũng kiểm soát lựa chọn.",
+      "emotion": "Khiếp sợ, bị mắc kẹt, không tin ai",
+      "color": "red",
+      "stage": "crisis",
+      "linked_events": ["2025_den_anh"],
+      "map": {
+        "x": 735,
+        "y": 245
+      }
+    },
+    {
+      "id": "2025_den_anh",
+      "date": "2025",
+      "title": "Đến Glasgow và được cảnh sát hỗ trợ",
+      "shortTitle": "Glasgow",
+      "description": "Lan đi qua nhiều chặng ban đêm, bị lạc khỏi đoàn tại khu công nghiệp cảng ở Glasgow và được tài xế xe tải đưa đến cảnh sát.",
+      "type": ["achievement", "decision", "loss"],
+      "causes": [
+        "Sergey nói rằng mẹ Lan đang đợi em ở châu Âu",
+        "Lan muốn tìm mẹ và thoát khỏi sự kiểm soát ở Nga"
+      ],
+      "consequences": [
+        "Lan lần đầu tiếp xúc với cảnh sát Glasgow trong trạng thái cần bảo vệ",
+        "Câu hỏi chính trở thành: giấy tờ, điện thoại và lời kể có khớp với hành trình không?"
+      ],
+      "context": "Lan không biết tiếng Anh, không có tiền riêng và gần như không có dữ liệu điện thoại trong giai đoạn 2022-2025 vì thiết bị cũ bị tịch thu.",
+      "emotion": "Hoảng loạn, lạnh, kiệt sức, rồi nhẹ nhõm",
+      "color": "green",
+      "stage": "rooting",
+      "linked_events": [],
+      "map": {
+        "x": 735,
+        "y": 390
+      }
+    }
+  ]
+}
