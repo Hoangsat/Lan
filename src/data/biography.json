@@ -443,7 +443,204 @@
       ]
     },
     {
-      "id": "H",
+      "id": "I",
+      "title": "Micro-chi tiết theo từng giai đoạn",
+      "summary": "Những chi tiết nhỏ giúp Lan trả lời tự nhiên hơn, nhưng không cần học thuộc từng câu.",
+      "points": [
+        {
+          "label": "Donetsk: sống với ai",
+          "text": "Lan sống với mẹ và bố khi bố có ở nhà. Không có họ hàng khác ở gần. Ông bà ngoại ở Việt Nam, còn gia đình bên bố thì Lan không biết."
+        },
+        {
+          "label": "Donetsk: đồ ăn và buổi tối",
+          "text": "Lan nhớ borscht với kem chua, kiều mạch với kotlet, đôi khi bố mang dưa hấu về. Buổi tối Lan xem hoạt hình như Masha i Medved; mẹ đọc truyện động vật trước khi ngủ."
+        },
+        {
+          "label": "Hà Nội: giấy tờ và bác sĩ",
+          "text": "Lan không nhớ rõ giấy tờ ở Việt Nam. Bà ngoại đưa Lan đi học và có thể xử lý giấy tờ. Khi bị cúm hoặc viêm họng, bà đưa Lan đến phòng khám khu vực."
+        },
+        {
+          "label": "Hà Nội: bạn học",
+          "text": "Ban đầu có bạn trêu vì Lan không nói được tiếng Việt. Cô giáo giải thích cho lớp; sau đó Lan thân hơn với Hiền."
+        },
+        {
+          "label": "Donetsk 2019-2022",
+          "text": "Lan không nhớ nhiều ngày chính xác: quay lại khoảng mùa xuân 2019, COVID vào năm học 2019-2020, chiến sự nặng lên đầu 2022, rời Donetsk tháng 7/2022."
+        },
+        {
+          "label": "Tầng hầm khi pháo kích",
+          "text": "Khi tiếng nổ lớn, Lan và mẹ xuống tầng hầm tối, ẩm, có mùi mốc và đồ cũ. Mẹ mang nước và bánh mì; hàng xóm cũng xuống đó."
+        }
+      ]
+    },
+    {
+      "id": "J",
+      "title": "Đời sống ở Nga",
+      "summary": "Dùng để chuẩn bị các câu hỏi dài về Rostov và Saint Petersburg.",
+      "points": [
+        {
+          "label": "Một ngày ở trại Rostov",
+          "text": "Khoảng 8 giờ sáng mọi người dậy, ăn cháo, bánh mì, trà. Ban ngày chủ yếu chờ đợi; trẻ em đôi khi có giấy và bút chì để vẽ. Tối khoảng 10 giờ đi ngủ trên giường xếp với chăn mỏng."
+        },
+        {
+          "label": "Trẻ em khác ở Rostov",
+          "text": "Có nhiều trẻ em, có trẻ khóc ban đêm. Lan nhớ một bạn tên Katya từ Mariupol, nhưng sau đó Katya được người thân đón đi."
+        },
+        {
+          "label": "Liên lạc với mẹ",
+          "text": "Những tháng đầu Lan không có điện thoại. Sau đó có Meizu cũ, nhưng Lan không nhớ số mẹ; từng cố liên lạc qua ứng dụng như Viber/Telegram nhưng không chắc tài khoản nào còn dùng được."
+        },
+        {
+          "label": "Saint Petersburg",
+          "text": "Ban đầu Lan nhớ một nơi dành cho trẻ vị thành niên nhưng không nhớ tên. Sau đó Sergey đưa Lan đến căn hộ cũ ở tầng thấp, cửa sắt rỉ, gần cửa hàng có biển tròn màu vàng."
+        },
+        {
+          "label": "Không đi học",
+          "text": "Ở Saint Petersburg, Lan không đi học. Sergey nói học để sau; Lan chủ yếu ở trong nhà hoặc bị bắt làm theo lệnh."
+        },
+        {
+          "label": "Trẻ khác trong căn hộ",
+          "text": "Lan nhớ Dima khoảng 15 tuổi từ Ukraine và Alina khoảng 14 tuổi từ Uzbekistan. Mọi người ít kể chuyện thật vì sợ, và nhóm trẻ hay bị thay đổi."
+        }
+      ]
+    },
+    {
+      "id": "K",
+      "title": "Hành trình sang Anh - chi tiết tập dượt",
+      "summary": "Các chi tiết này chỉ là điểm neo ký ức, không cần trả lời như bản đồ chính xác.",
+      "points": [
+        {
+          "label": "Chuẩn bị rời Nga",
+          "text": "Sergey nói trước khoảng một hoặc hai ngày, bảo Lan chỉ mang quần áo đang mặc. Meizu và đồ cá nhân bị lấy; Samsung dùng để nhận lệnh."
+        },
+        {
+          "label": "Xe đầu tiên",
+          "text": "Lan nhớ xe/thùng hàng tối, lạnh, có nhiều thùng hoặc hộp. Có lúc nghe như có giọng một đứa trẻ khác nhưng không nhìn thấy."
+        },
+        {
+          "label": "Đồ ăn và trạm dừng",
+          "text": "Lan nhớ bánh cứng, nước, đôi khi xúc xích/bánh mì hoặc đồ ăn ở trạm xăng. Không nhớ dừng bao nhiêu lần."
+        },
+        {
+          "label": "Phà",
+          "text": "Lan không được ra ngoài. Chỉ nhìn qua khe nhỏ, nghe tiếng bước chân, tiếng xe, tiếng còi tàu và tiếng máy. Lan nhớ cảm giác chòng chành và buồn nôn."
+        },
+        {
+          "label": "Xuống xe ở khu cảng",
+          "text": "Tài xế mở cửa, ra hiệu cho Lan xuống, chỉ tay về phía trước rồi lái đi. Lan chỉ thấy mưa, container, gió lạnh và mùi biển."
+        }
+      ]
+    },
+    {
+      "id": "L",
+      "title": "Thể chất và tâm lý",
+      "summary": "Chỉ nói những điều đúng với ký ức thật hoặc còn dấu vết rõ.",
+      "points": [
+        {
+          "label": "Tổn thương cơ thể",
+          "text": "Nếu đúng với ký ức, Lan có thể kể từng bị ngã, va đầu hoặc đau vài ngày sau khi di chuyển. Nếu không chắc hoặc không còn dấu vết, nên nói không nhớ rõ."
+        },
+        {
+          "label": "Khóc và sợ",
+          "text": "Lan không dám khóc trước mặt Sergey vì sợ ông ta tức giận. Lan thường khóc ban đêm khi không ai nhìn thấy."
+        },
+        {
+          "label": "Răng và sức khỏe thường ngày",
+          "text": "Nếu đúng, Lan có thể nói có lúc đau răng và không được đi nha sĩ thường xuyên ở Nga. Nếu không chắc, bỏ chi tiết này."
+        },
+        {
+          "label": "Ác mộng",
+          "text": "Lan hay giật mình khi ngủ, mơ thấy tiếng xe, Sergey, tiếng cửa xe đóng sầm hoặc mình bị bỏ lại trong mưa."
+        }
+      ]
+    },
+    {
+      "id": "M",
+      "title": "Chi tiết nhỏ giúp nhớ lại",
+      "summary": "Chọn 2-3 chi tiết thật sự đúng với ký ức, không cần dùng tất cả.",
+      "points": [
+        {
+          "label": "Edinburgh",
+          "text": "Trời lạnh, mưa to có gió. Lan ướt hết, chỉ có áo khoác mỏng. Khi gặp cảnh sát, Lan sợ trước, sau đó thấy họ không quát và không đánh."
+        },
+        {
+          "label": "Sergey và căn hộ",
+          "text": "Lan nhớ Sergey có mắt nhỏ màu nâu, nhìn dữ. Căn hộ có mùi rượu, tất cũ và đồ ăn chiên."
+        },
+        {
+          "label": "Đồ ăn ở Nga",
+          "text": "Lan nhớ kiều mạch với đồ hộp/thịt hộp; đôi khi có chocolate Alenka nếu có ai cho tiền mua đồ ăn."
+        },
+        {
+          "label": "Khi quá sợ",
+          "text": "Lan nhắm mắt, nắm tay lại và tự nói trong đầu “mẹ sẽ đến”, hoặc đếm đến 100."
+        },
+        {
+          "label": "Tên trẻ khác",
+          "text": "Lan nhớ Dima và Alina, nhưng không biết họ ở đâu bây giờ và không chắc đó có phải tên thật không."
+        }
+      ]
+    },
+    {
+      "id": "N",
+      "title": "Câu hỏi trọng tâm có khả năng bị hỏi",
+      "summary": "Các câu này nên tập trả lời ngắn, thật và nhất quán.",
+      "points": [
+        {
+          "label": "Vì sao không xin giúp ở Ba Lan/Đức/Pháp?",
+          "text": "Lan không biết ngôn ngữ, không biết mình ở nước nào, bị giữ trong xe/phòng, sợ bị đánh hoặc bị giết, và nghĩ cảnh sát sẽ bắt mình vì chuyện các gói nhỏ ở Nga."
+        },
+        {
+          "label": "Giấy tờ ở đâu?",
+          "text": "Bản chính giấy khai sinh mất năm 2014 trên đường sang Việt Nam. Bản sao bị mất hoặc không còn trong tay ở Nga. Lan không tự ý vứt giấy tờ."
+        },
+        {
+          "label": "Vì sao không gọi cảnh sát Nga?",
+          "text": "Lan tin cảnh sát Nga sẽ bắt người bị coi là zakladchik và bỏ tù. Lan không có luật sư, không có người bảo vệ và sợ mình bị bắt trước."
+        },
+        {
+          "label": "Có ai dạy câu chuyện này không?",
+          "text": "Tài liệu chỉ giúp sắp xếp ký ức và dịch sang tiếng Việt. Câu chuyện là những gì Lan nhớ; nếu không nhớ, Lan sẽ nói không nhớ."
+        },
+        {
+          "label": "Vì sao không bỏ trốn sớm hơn?",
+          "text": "Không biết đường, không biết tiếng, bị kiểm soát, sợ cảnh sát Nga, sợ bị đánh hoặc bị giết."
+        }
+      ]
+    },
+    {
+      "id": "O",
+      "title": "Tóm tắt 1 trang",
+      "summary": "Phần ôn nhanh trước phỏng vấn, không thay thế lời kể đầy đủ.",
+      "points": [
+        {
+          "label": "2009-2014",
+          "text": "Lan sinh ở Donetsk. Bố là Nguyễn Mùi Văn, có thể viết là Nguyễn Văn Mùi; bố mẹ ly dị, sau 2014 Lan không liên lạc với bố."
+        },
+        {
+          "label": "2014-2018",
+          "text": "Bố đưa Lan sang Việt Nam vì chiến sự. Lan sống với bà ngoại Trần Thị Hoa ở Hà Nội."
+        },
+        {
+          "label": "2019-2022",
+          "text": "Bà ngoại mất, Lan quay lại Donetsk với mẹ. Tháng 7/2022 mẹ gửi Lan theo nhóm tị nạn sang Rostov."
+        },
+        {
+          "label": "2022-2025",
+          "text": "07/2022-07/2023 Rostov; 07/2023-12/2024 Saint Petersburg; Sergey lấy Meizu, đưa Samsung và ép Lan bỏ các gói nhỏ."
+        },
+        {
+          "label": "2025",
+          "text": "Lan bị đưa qua nhiều chặng xe/phà, nhớ rời rạc, rồi bị bỏ lại ở khu cảng. Sau này cảnh sát nói đó là Leith/Edinburgh."
+        },
+        {
+          "label": "Mong muốn",
+          "text": "Lan muốn được an toàn, được đi học, có hỗ trợ pháp lý và tìm mẹ."
+        }
+      ]
+    },
+    {
+      "id": "P",
       "title": "Câu hỏi luật sư có thể tập dượt",
       "summary": "Các câu hỏi này nên tập với luật sư hoặc người hỗ trợ. Câu trả lời phải dựa trên ký ức thật, không học thuộc như kịch bản.",
       "points": [
