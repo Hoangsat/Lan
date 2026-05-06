@@ -2,6 +2,8 @@
   "person": {
     "name": "Nguyễn Thị Lan",
     "age": 17,
+    "father": "Nguyễn Mùi Văn, 1967",
+    "mother": "Nguyễn Thị Thanh Thảo, 1979",
     "route": "Donetsk → Hà Nội → Donetsk → Rostov → Saint Petersburg → Glasgow",
     "title": "Tiểu sử như một hồ sơ điều tra",
     "summary": "Lan không có một hành trình nhập cư thẳng hàng. Mỗi mốc là một manh mối: vì sao em phải rời đi, ai kiểm soát giấy tờ, điều gì khiến em dễ bị tổn thương, và hệ quả nào dẫn đến Glasgow.",
@@ -66,7 +68,7 @@
       "type": ["loss"],
       "causes": [
         "Gia đình sống ổn định tại Donetsk trước khi chiến sự lan rộng",
-        "Bố là tài xế đường dài, mẹ làm công nhân tại nhà máy bánh kẹo"
+        "Bố là Nguyễn Mùi Văn, mẹ là Nguyễn Thị Thanh Thảo"
       ],
       "consequences": [
         "Lan có ký ức rõ về nhà, trường học và bạn bè",

@@ -175,6 +175,14 @@
           <dd>{person.name}</dd>
         </div>
         <div>
+          <dt>Cha</dt>
+          <dd>{person.father}</dd>
+        </div>
+        <div>
+          <dt>Mẹ</dt>
+          <dd>{person.mother}</dd>
+        </div>
+        <div>
           <dt>Hành trình</dt>
           <dd>{person.route}</dd>
         </div>
@@ -486,7 +494,7 @@
 
   .person-facts {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     gap: 10px;
     margin: 24px 0 0;
   }
