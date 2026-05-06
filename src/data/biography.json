@@ -2,7 +2,7 @@
   "person": {
     "name": "Nguyễn Thị Lan",
     "age": 17,
-    "father": "Nguyễn Mùi Văn, 1967",
+    "father": "Nguyễn Mùi Văn, 1967 (có thể viết là Nguyễn Văn Mùi)",
     "mother": "Nguyễn Thị Thanh Thảo, 1979",
     "route": "Donetsk → Hà Nội → Donetsk → Rostov → Saint Petersburg → Edinburgh",
     "title": "Chuẩn bị lời khai cho buổi phỏng vấn",
@@ -68,7 +68,7 @@
       "type": ["loss"],
       "causes": [
         "Gia đình sống ổn định tại Donetsk trước khi chiến sự lan rộng",
-        "Bố là Nguyễn Mùi Văn, người Việt sống ở Ukraine; mẹ là Nguyễn Thị Thanh Thảo"
+        "Bố là Nguyễn Mùi Văn, người Việt sống ở Ukraine; Lan không chắc cách viết tên bố"
       ],
       "consequences": [
         "Lan có ký ức rõ về nhà, trường học và bạn bè",
@@ -164,7 +164,7 @@
       "date": "07/2022",
       "title": "Theo đoàn tị nạn sang Nga",
       "shortTitle": "Sang Nga",
-      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov. Đến năm 2023, Valera ở trại Rostov quen Sergey và Lan bị đưa đến Saint Petersburg.",
+      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov. Lan ở Rostov khoảng 07/2022-07/2023, rồi Valera nối Lan với Sergey và Lan bị đưa đến Saint Petersburg.",
       "type": ["cause_of_immigration", "loss"],
       "causes": [
         "Chiến sự tiếp tục leo thang",
@@ -174,7 +174,7 @@
         "Lan gặp bác Galina và phụ thuộc vào người đi cùng",
         "Lần cuối Lan gặp mẹ là lúc lên xe buýt rời Donetsk"
       ],
-      "context": "Lan là trẻ vị thành niên, không tự kiểm soát đường đi, giấy tờ hay nơi ở. Ở Rostov, Valera là người nối Lan với Sergey.",
+      "context": "Lan là trẻ vị thành niên, không tự kiểm soát đường đi, giấy tờ hay nơi ở. Mốc chuẩn bị: 07/2022-07/2023 Rostov; 07/2023-12/2024 Saint Petersburg; 01/2025-02/2025 Sergey chuẩn bị đưa Lan rời Nga.",
       "emotion": "Sợ hãi, nhớ mẹ, phụ thuộc",
       "color": "red",
       "stage": "crisis",
@@ -239,14 +239,14 @@
       "date": "2025",
       "title": "Đến Edinburgh và được cảnh sát hỗ trợ",
       "shortTitle": "Edinburgh",
-      "description": "Lan đi qua nhiều chặng ban đêm, chỉ nhớ một số chi tiết rời rạc, rồi bị lạc khỏi đoàn tại khu công nghiệp cảng ở Edinburgh và được tài xế xe tải đưa đến cảnh sát.",
+      "description": "Lan đi qua nhiều chặng ban đêm, chỉ nhớ một số chi tiết rời rạc, rồi bị lạc khỏi đoàn tại một khu công nghiệp cảng. Sau này cảnh sát nói nơi đó là Edinburgh.",
       "type": ["achievement", "decision", "loss"],
       "causes": [
         "Sergey nói rằng mẹ Lan đang đợi em ở châu Âu",
         "Lan muốn tìm mẹ và thoát khỏi sự kiểm soát ở Nga"
       ],
       "consequences": [
-        "Lan lần đầu tiếp xúc với cảnh sát Edinburgh trong trạng thái cần bảo vệ",
+        "Lan lần đầu tiếp xúc với cảnh sát tại Edinburgh trong trạng thái cần bảo vệ",
         "Câu hỏi chính trở thành: giấy tờ, điện thoại và lời kể có khớp với hành trình không?"
       ],
       "context": "Lan không biết tiếng Anh, không có tiền riêng. Chi tiết hành trình được nhớ theo mảnh rời rạc, thứ tự một số điểm dừng có thể không chắc.",
@@ -268,7 +268,7 @@
       "points": [
         {
           "label": "Bố",
-          "text": "Theo lời mẹ kể, bố là Nguyễn Mùi Văn, sinh năm 1967, là người Việt sống ở Ukraine. Bố mẹ trước đây sang làm thuê ở xưởng may quần áo tại Odessa. Sau đó bố làm lái xe chở hàng đường dài, thường đi 1-2 lần mỗi tuần, mỗi chuyến khoảng 2-3 ngày. Khi Lan quay lại Donetsk thì bố mẹ đã ly dị."
+          "text": "Theo lời mẹ kể, bố là Nguyễn Mùi Văn, sinh năm 1967, là người Việt sống ở Ukraine. Bố mẹ trước đây sang làm thuê ở xưởng may quần áo tại Odessa. Sau đó bố làm lái xe chở hàng đường dài, thường đi 1-2 lần mỗi tuần, mỗi chuyến khoảng 2-3 ngày. Lan chỉ biết tên bố theo lời mẹ gọi và không chắc cách viết chính xác; có thể là Nguyễn Văn Mùi. Khi Lan quay lại Donetsk thì bố mẹ đã ly dị."
         },
         {
           "label": "Cuộc gọi cuối",
@@ -345,11 +345,11 @@
       "points": [
         {
           "label": "Trại Rostov",
-          "text": "Trại rất đông, khoảng 300-400 người, giống một trường học. Lan ở trong phòng thể dục tập thể, ban đêm lạnh và chỉ có chăn mỏng. Lan nhớ mình ở đó khoảng một năm."
+          "text": "Trại rất đông, khoảng 300-400 người, giống một trường học. Lan ở trong phòng thể dục tập thể, ban đêm lạnh và chỉ có chăn mỏng. Lan nhớ mình ở đó khoảng 07/2022-07/2023."
         },
         {
           "label": "Valera",
-          "text": "Chú Valera khoảng 45 tuổi, tóc bạc, hay ho khan. Ông ta là người quản lý/giám sát trong trại Rostov. Valera quen Sergey và là người nối Lan với Sergey trước khi Lan bị đưa đến Saint Petersburg."
+          "text": "Chú Valera khoảng 45 tuổi, tóc bạc, hay ho khan. Ông ta là người quản lý/giám sát trong trại Rostov. Khoảng 07/2023, Valera quen Sergey và là người nối Lan với Sergey trước khi Lan bị đưa đến Saint Petersburg. Giai đoạn 07/2023-12/2024 Lan ở Saint Petersburg; khoảng 01/2025-02/2025 Sergey chuẩn bị đưa Lan rời Nga."
         },
         {
           "label": "Sergey",
@@ -361,11 +361,11 @@
         },
         {
           "label": "Nơi ở và công việc",
-          "text": "Sergey đưa Lan đến căn hộ thuê bẩn, giấy dán tường bong tróc, có 3 đứa trẻ khác. Công việc chính là may quần áo, nhưng Lan nói mình còn bị ép giao các gói nhỏ và gửi tọa độ qua điện thoại. Sergey lấy điện thoại Meizu cũ của Lan và đưa một Samsung cũ để kiểm soát liên lạc."
+          "text": "Sergey đưa Lan đến căn hộ thuê bẩn, giấy dán tường bong tróc, có 3 đứa trẻ khác. Sergey bảo Lan bỏ các gói nhỏ ở nơi kín, chụp ảnh và gửi tọa độ qua điện thoại. Lúc đầu Lan không biết đó là gì. Sau này Lan hiểu đó là ma túy. Lan sợ chết, không dám từ chối, chưa bao giờ nhận tiền và không tự nguyện. Sergey lấy điện thoại Meizu cũ của Lan và đưa một Samsung cũ để kiểm soát liên lạc."
         },
         {
           "label": "Ngôn ngữ sinh tồn",
-          "text": "Sergey hầu như chỉ ra lệnh ngắn như “đi”, “làm đi”, “ngủ đi”. Lan hiểu một số câu mệnh lệnh, từ chửi và từ sinh hoạt để tránh bị đánh, nhưng không thể giao tiếp trôi chảy, không viết tốt và không hiểu giấy tờ chính thức."
+          "text": "Sergey hầu như chỉ ra lệnh ngắn như “đi”, “làm đi”, “ngủ đi”. Lan nói được vài câu sinh tồn như “đi”, “dừng”, “lấy cái này”, “tôi sợ”, nghe hiểu khoảng 30-40% nếu người ta nói chậm, nhưng không đọc báo, không viết tin nhắn dài và không hiểu giấy tờ chính thức."
         }
       ]
     },
@@ -396,14 +396,14 @@
         },
         {
           "label": "Đến Edinburgh",
-          "text": "Sau khi vào Anh, Lan đi tiếp qua nhiều chặng. Cuối cùng bị thả xuống khu công nghiệp Cảng Leith, Edinburgh, khoảng 2-3 giờ sáng, trời mưa, lạnh, nhiều container và mùi biển."
+          "text": "Sau khi vào Anh, Lan đi tiếp qua nhiều chặng. Cuối cùng bị thả xuống một khu công nghiệp cảng khoảng 2-3 giờ sáng. Lúc đó Lan không biết mình ở đâu; sau này cảnh sát nói đó là Leith Docks, Edinburgh."
         }
       ]
     },
     {
       "id": "F",
-      "title": "Điện thoại và dữ liệu trống",
-      "summary": "Điểm này rất quan trọng vì cán bộ có thể hỏi tại sao điện thoại không có ảnh, tin nhắn hay lịch sử cũ.",
+      "title": "Điện thoại và dữ liệu ít",
+      "summary": "Điểm này rất quan trọng vì cán bộ có thể hỏi tại sao điện thoại có rất ít ảnh, tin nhắn hay lịch sử cũ.",
       "points": [
         {
           "label": "Điện thoại cũ",
@@ -421,12 +421,35 @@
     },
     {
       "id": "G",
+      "title": "Sức khỏe, vật dụng và người thân",
+      "summary": "Những điểm này giúp chuẩn bị nếu cán bộ hỏi về tình trạng sau hành trình và khả năng quay về Việt Nam.",
+      "points": [
+        {
+          "label": "Sức khỏe thể chất",
+          "text": "Lan bị đau lưng vì phải nằm trên sàn xe và trong thùng xe lâu. Có lúc cổ tay bị bầm tím do bị giữ, bị kéo mạnh hoặc bị chặn bằng dây."
+        },
+        {
+          "label": "Sức khỏe tinh thần",
+          "text": "Lan hay giật mình khi ngủ, có ác mộng thấy Sergey, xe tải và tiếng cửa xe đóng sầm. Khi nghe tiếng Nga quát lớn, Lan dễ hoảng."
+        },
+        {
+          "label": "Vật dụng cá nhân",
+          "text": "Khi được tìm thấy, Lan chỉ còn quần áo đang mặc, đôi giày thể thao cũ và điện thoại Samsung. Lan không có hộ chiếu, giấy khai sinh bản gốc, ảnh gia đình hay đồ trang sức."
+        },
+        {
+          "label": "Người thân ở Việt Nam",
+          "text": "Bà ngoại đã mất. Lan không biết rõ còn họ hàng nào khác ở Việt Nam; có thể còn người thân xa, nhưng Lan chưa gặp hoặc không biết liên lạc."
+        }
+      ]
+    },
+    {
+      "id": "H",
       "title": "Câu hỏi luật sư có thể tập dượt",
       "summary": "Các câu hỏi này nên tập với luật sư hoặc người hỗ trợ. Câu trả lời phải dựa trên ký ức thật, không học thuộc như kịch bản.",
       "points": [
         {
           "label": "Vì sao không xin bảo vệ ở Ba Lan/Đức/Pháp?",
-          "text": "Lan có thể giải thích rằng em không biết ngôn ngữ, không biết mình đang ở đâu, bị đe dọa và sợ nếu bỏ trốn sẽ bị tìm thấy."
+          "text": "Lan có thể giải thích rằng em không biết ngôn ngữ, không biết mình đang ở đâu, bị đe dọa, có lúc bị nhốt trong xe hoặc cửa xe bị khóa, và sợ nếu bỏ trốn sẽ bị đánh hoặc bị giết."
         },
         {
           "label": "Có bằng chứng bị buôn bán không?",
@@ -443,6 +466,18 @@
         {
           "label": "Có muốn về Việt Nam không?",
           "text": "Lan nên trả lời đúng hoàn cảnh thật: bà ngoại đã mất, em không còn điểm tựa chăm sóc rõ ràng ở Việt Nam, và mong muốn chính là tìm mẹ."
+        },
+        {
+          "label": "Làm sao biết đó là Edinburgh?",
+          "text": "Lan nên nói rõ: lúc đó em không biết mình ở đâu. Sau này cảnh sát hoặc người hỗ trợ nói với em đó là Edinburgh/Leith."
+        },
+        {
+          "label": "Làm sao nhớ địa danh cũ?",
+          "text": "Lan có thể nói có thứ em nhớ vì mẹ hay nhắc hoặc vì ấn tượng mạnh, nhưng em không nhớ mọi số nhà, đường phố hay chi tiết chính xác."
+        },
+        {
+          "label": "Sergey bây giờ ở đâu?",
+          "text": "Lan có thể nói: em không biết. Em chỉ biết ông ta ở Nga, có thể từng ở Saint Petersburg hoặc Moscow."
         }
       ]
     }
