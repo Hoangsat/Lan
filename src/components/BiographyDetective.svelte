@@ -71,7 +71,7 @@
   }
 
   function firstCause(event) {
-    return event?.causes?.[0] ?? "Chưa có manh mối";
+    return event?.causes?.[0] ?? "Chưa có ghi chú";
   }
 
   function tagsFor(event) {
@@ -166,7 +166,7 @@
 <main class="case-shell">
   <header class="case-header" aria-labelledby="page-title">
     <div class="case-copy">
-      <p class="eyebrow">Hồ sơ {person.caseNumber}</p>
+      <p class="eyebrow">Lời khai {person.caseNumber}</p>
       <h1 id="page-title">{person.title}</h1>
       <p class="lead">{person.summary}</p>
       <dl class="person-facts" aria-label="Thông tin nhân vật">
@@ -193,11 +193,11 @@
       </dl>
     </div>
     <figure class="case-visual">
-      <img src="/evidence-board.svg" alt="Bảng điều tra với hồ sơ, ghim và đường nối nguyên nhân hệ quả" />
+      <img src="/evidence-board.svg" alt="Bảng tóm tắt hành trình với giấy tờ, mốc thời gian và đường nối nguyên nhân hệ quả" />
     </figure>
   </header>
 
-  <section class="control-band" aria-label="Bảng điều khiển điều tra">
+  <section class="control-band" aria-label="Bảng điều khiển chuẩn bị phỏng vấn">
     <div class="mode-switch" role="tablist" aria-label="Chọn chế độ xem">
       <button
         type="button"
@@ -219,7 +219,7 @@
       </button>
     </div>
 
-    <div class="filters" aria-label="Bộ lọc manh mối">
+    <div class="filters" aria-label="Bộ lọc nội dung">
       {#each filters as filter}
         <button
           type="button"
@@ -235,7 +235,7 @@
       {/each}
     </div>
 
-    <button type="button" class="clue-button" on:click={showRandomClue}>Manh mối ngẫu nhiên</button>
+    <button type="button" class="clue-button" on:click={showRandomClue}>Câu hỏi ngẫu nhiên</button>
   </section>
 
   <section class="journey" aria-label="Tiến trình nhập cư">
@@ -255,10 +255,10 @@
   </section>
 
   {#if mode === "timeline"}
-    <section class="timeline-layout" aria-label="Chế độ dòng thời gian điều tra">
+    <section class="timeline-layout" aria-label="Chế độ dòng thời gian chuẩn bị phỏng vấn">
       <aside class="timeline-panel">
         <div class="section-heading">
-          <p>Chuỗi bằng chứng</p>
+          <p>Các mốc cần nhớ</p>
           <strong>{filteredEvents.length} mốc</strong>
         </div>
 
@@ -350,8 +350,8 @@
     <section class="map-layout" aria-label="Chế độ bản đồ liên kết">
       <div class="map-toolbar">
         <div>
-          <p class="section-label">Bản đồ nguyên nhân → hệ quả</p>
-          <h2>Kéo các nút để tự dựng lại hồ sơ</h2>
+          <p class="section-label">Sơ đồ nguyên nhân → hệ quả</p>
+          <h2>Kéo các nút để tự ôn lại trình tự câu chuyện</h2>
         </div>
         <button type="button" on:click={() => setMode("timeline")}>Trở về dòng thời gian</button>
       </div>
@@ -426,7 +426,7 @@
         </span>
         <h3>{activeEvent.date}: {activeEvent.title}</h3>
         <p>{activeEvent.description}</p>
-        <p><strong>Manh mối chính:</strong> {firstCause(activeEvent)}</p>
+        <p><strong>Điểm cần nhớ:</strong> {firstCause(activeEvent)}</p>
       </aside>
     </section>
   {/if}

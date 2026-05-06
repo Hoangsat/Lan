@@ -1,6 +1,6 @@
-# Biography Detective
+# Interview Biography
 
-Static one-page Astro/Svelte site for exploring an immigrant biography as an investigation. The UI and sample biography are written in Vietnamese for Vietnamese readers.
+Static one-page Astro/Svelte site for helping a Vietnamese-speaking interviewee reread and prepare her biography before an interview.
 
 ## Requirements
 
@@ -30,10 +30,10 @@ The interactive biography data is stored in one file:
 src/data/biography.json
 ```
 
-It was structured from the source statement in `Текстовый документ.txt`. Each event supports date, title, description, tags, causes, consequences, context, emotion, color, graph links, stage, and map coordinates.
+It was structured from the source statement in `Текстовый документ.md`. Each event supports date, title, description, tags, causes, consequences, context, emotion, color, graph links, stage, and map coordinates.
 
 ## Deployment placeholder
 
 ```text
-https://biography-detective.netlify.app
+https://interview-biography.netlify.app
 ```
