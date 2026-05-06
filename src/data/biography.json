@@ -68,7 +68,7 @@
       "type": ["loss"],
       "causes": [
         "Gia đình sống ổn định tại Donetsk trước khi chiến sự lan rộng",
-        "Bố là Nguyễn Mùi Văn, mẹ là Nguyễn Thị Thanh Thảo"
+        "Bố là Nguyễn Mùi Văn, người Việt sống ở Ukraine; mẹ là Nguyễn Thị Thanh Thảo"
       ],
       "consequences": [
         "Lan có ký ức rõ về nhà, trường học và bạn bè",
@@ -89,7 +89,7 @@
       "date": "2014",
       "title": "Được gửi sang Việt Nam để tránh chiến sự",
       "shortTitle": "Sang Việt Nam",
-      "description": "Bố gửi Lan theo một người quen từ Rostov-on-Don qua Moscow đến Hà Nội để em được an toàn.",
+      "description": "Bố đưa Lan từ Rostov-on-Don qua Moscow đến Hà Nội để em được an toàn và sống với bà ngoại bên mẹ.",
       "type": ["cause_of_immigration", "decision", "loss"],
       "causes": [
         "Chiến sự xảy ra ở Donetsk",
@@ -99,7 +99,7 @@
         "Lan xa bố từ năm 2014",
         "Bản chính giấy khai sinh Ukraine bị mất trên đường"
       ],
-      "context": "Hành trình Rostov-on-Don → Moscow → Hà Nội là lần di chuyển lớn đầu tiên, khi Lan còn nhỏ và phụ thuộc hoàn toàn vào người lớn.",
+      "context": "Hành trình Rostov-on-Don → Moscow → Hà Nội là lần di chuyển lớn đầu tiên. Lan đi cùng bố và sau đó sống với bà ngoại bên mẹ tại Hà Nội.",
       "emotion": "Sợ hãi, choáng ngợp, nhớ nhà",
       "color": "yellow",
       "stage": "shock",
@@ -118,7 +118,7 @@
       "type": ["achievement", "loss"],
       "causes": [
         "Gia đình chọn Việt Nam như nơi an toàn hơn Donetsk",
-        "Bà ngoại Trần Thị Hoa là người chăm sóc chính"
+        "Bà ngoại Trần Thị Hoa bán tạp hóa nhỏ và là người chăm sóc chính"
       ],
       "consequences": [
         "Lan hội nhập vào môi trường Việt Nam",
@@ -164,7 +164,7 @@
       "date": "07/2022",
       "title": "Theo đoàn tị nạn sang Nga",
       "shortTitle": "Sang Nga",
-      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov rồi đến trung tâm tạm trú ở Saint Petersburg.",
+      "description": "Sau tháng 2/2022, mẹ gửi Lan theo một nhóm tị nạn qua vùng Rostov. Đến năm 2023, Valera ở trại Rostov quen Sergey và Lan bị đưa đến Saint Petersburg.",
       "type": ["cause_of_immigration", "loss"],
       "causes": [
         "Chiến sự tiếp tục leo thang",
@@ -174,7 +174,7 @@
         "Lan gặp bác Galina và phụ thuộc vào người đi cùng",
         "Lần cuối Lan gặp mẹ là lúc lên xe buýt rời Donetsk"
       ],
-      "context": "Lan là trẻ vị thành niên, không tự kiểm soát đường đi, giấy tờ hay nơi ở trong giai đoạn di tản.",
+      "context": "Lan là trẻ vị thành niên, không tự kiểm soát đường đi, giấy tờ hay nơi ở. Ở Rostov, Valera là người nối Lan với Sergey.",
       "emotion": "Sợ hãi, nhớ mẹ, phụ thuộc",
       "color": "red",
       "stage": "crisis",
@@ -214,17 +214,17 @@
       "date": "2022-2025",
       "title": "Bị Sergey ép làm việc giao gói tại Nga",
       "shortTitle": "Sergey",
-      "description": "Sergey tiếp cận Lan ở nơi tạm trú, đưa em ra ngoài và ép giấu các gói nhỏ rồi gửi tọa độ qua điện thoại.",
+      "description": "Valera ở trại Rostov quen Sergey. Sau đó Sergey đưa Lan ra ngoài, kiểm soát điện thoại và ép em làm việc, gồm cả việc giao các gói nhỏ.",
       "type": ["loss"],
       "causes": [
         "Lan không có người giám hộ đáng tin cậy bên cạnh",
         "Thiếu giấy tờ và sợ cảnh sát khiến em không dám tìm trợ giúp"
       ],
       "consequences": [
-        "Điện thoại cũ bị tịch thu",
+        "Điện thoại Meizu cũ bị lấy, sau đó Sergey đưa một Samsung cũ",
         "Lan bị đe dọa phải làm việc để trả tiền ăn, ở và di chuyển"
       ],
-      "context": "Tình tiết này cho thấy nguy cơ bóc lột trẻ vị thành niên trong di cư cưỡng bức: người kiểm soát chỗ ở, điện thoại và nỗi sợ cũng kiểm soát lựa chọn.",
+      "context": "Tình tiết này cho thấy nguy cơ bóc lột trẻ vị thành niên trong di cư cưỡng bức: người kiểm soát chỗ ở, điện thoại, công việc và nỗi sợ cũng kiểm soát lựa chọn.",
       "emotion": "Khiếp sợ, bị mắc kẹt, không tin ai",
       "color": "red",
       "stage": "crisis",
@@ -239,7 +239,7 @@
       "date": "2025",
       "title": "Đến Edinburgh và được cảnh sát hỗ trợ",
       "shortTitle": "Edinburgh",
-      "description": "Lan đi qua nhiều chặng ban đêm, bị lạc khỏi đoàn tại khu công nghiệp cảng ở Edinburgh và được tài xế xe tải đưa đến cảnh sát.",
+      "description": "Lan đi qua nhiều chặng ban đêm, chỉ nhớ một số chi tiết rời rạc, rồi bị lạc khỏi đoàn tại khu công nghiệp cảng ở Edinburgh và được tài xế xe tải đưa đến cảnh sát.",
       "type": ["achievement", "decision", "loss"],
       "causes": [
         "Sergey nói rằng mẹ Lan đang đợi em ở châu Âu",
@@ -249,7 +249,7 @@
         "Lan lần đầu tiếp xúc với cảnh sát Edinburgh trong trạng thái cần bảo vệ",
         "Câu hỏi chính trở thành: giấy tờ, điện thoại và lời kể có khớp với hành trình không?"
       ],
-      "context": "Lan không biết tiếng Anh, không có tiền riêng và gần như không có dữ liệu điện thoại trong giai đoạn 2022-2025 vì thiết bị cũ bị tịch thu.",
+      "context": "Lan không biết tiếng Anh, không có tiền riêng. Chi tiết hành trình được nhớ theo mảnh rời rạc, thứ tự một số điểm dừng có thể không chắc.",
       "emotion": "Hoảng loạn, lạnh, kiệt sức, rồi nhẹ nhõm",
       "color": "green",
       "stage": "rooting",
@@ -268,7 +268,7 @@
       "points": [
         {
           "label": "Bố",
-          "text": "Theo lời mẹ kể, bố là Nguyễn Mùi Văn, sinh năm 1967, làm lái xe chở hàng đường dài. Bố thường đi 1-2 lần mỗi tuần, mỗi chuyến khoảng 2-3 ngày. Khi Lan quay lại Donetsk thì bố mẹ đã ly dị."
+          "text": "Theo lời mẹ kể, bố là Nguyễn Mùi Văn, sinh năm 1967, là người Việt sống ở Ukraine. Bố mẹ trước đây sang làm thuê ở xưởng may quần áo tại Odessa. Sau đó bố làm lái xe chở hàng đường dài, thường đi 1-2 lần mỗi tuần, mỗi chuyến khoảng 2-3 ngày. Khi Lan quay lại Donetsk thì bố mẹ đã ly dị."
         },
         {
           "label": "Cuộc gọi cuối",
@@ -334,7 +334,7 @@
         },
         {
           "label": "Trường số 51",
-          "text": "Cô Galina có một cái răng vàng và thương Lan vì Lan cố gắng. Năm 2019, do COVID học ở nhà, Lan không có máy tính, điện thoại mạng yếu nên hay bỏ học. Mẹ thuê cô giáo dạy tiếng Nga mỗi tuần một lần."
+          "text": "Cô Galina có một cái răng vàng và thương Lan vì Lan cố gắng. Từ năm học 2019-2020, do COVID học ở nhà, Lan không có máy tính, điện thoại mạng yếu nên hay bỏ học. Mẹ thuê cô giáo dạy tiếng Nga mỗi tuần một lần."
         }
       ]
     },
@@ -349,7 +349,7 @@
         },
         {
           "label": "Valera",
-          "text": "Chú Valera khoảng 45 tuổi, tóc bạc, hay ho khan. Ông ấy bảo lãnh Lan ra khỏi trại để đến Saint Petersburg."
+          "text": "Chú Valera khoảng 45 tuổi, tóc bạc, hay ho khan. Ông ta là người quản lý/giám sát trong trại Rostov. Valera quen Sergey và là người nối Lan với Sergey trước khi Lan bị đưa đến Saint Petersburg."
         },
         {
           "label": "Sergey",
@@ -361,22 +361,22 @@
         },
         {
           "label": "Nơi ở và công việc",
-          "text": "Sergey đưa Lan đến căn hộ thuê bẩn, giấy dán tường bong tróc, có 3 đứa trẻ khác. Công việc chính là may quần áo, nhưng Lan nói mình còn bị ép giao các gói nhỏ và gửi tọa độ qua điện thoại."
+          "text": "Sergey đưa Lan đến căn hộ thuê bẩn, giấy dán tường bong tróc, có 3 đứa trẻ khác. Công việc chính là may quần áo, nhưng Lan nói mình còn bị ép giao các gói nhỏ và gửi tọa độ qua điện thoại. Sergey lấy điện thoại Meizu cũ của Lan và đưa một Samsung cũ để kiểm soát liên lạc."
         },
         {
           "label": "Ngôn ngữ sinh tồn",
-          "text": "Sergey hầu như chỉ ra lệnh ngắn như “đi”, “làm đi”, “ngủ đi”. Lan học vài từ cơ bản để tránh bị đánh, không học ngữ pháp hay viết."
+          "text": "Sergey hầu như chỉ ra lệnh ngắn như “đi”, “làm đi”, “ngủ đi”. Lan hiểu một số câu mệnh lệnh, từ chửi và từ sinh hoạt để tránh bị đánh, nhưng không thể giao tiếp trôi chảy, không viết tốt và không hiểu giấy tờ chính thức."
         }
       ]
     },
     {
       "id": "E",
       "title": "Hành trình từ Nga đến Edinburgh",
-      "summary": "Tóm tắt các chặng chính để Lan ôn lại trình tự, không cần cố nhớ ngày giờ chính xác nếu không chắc.",
+      "summary": "Tóm tắt các chặng chính để Lan ôn lại trình tự. Một số chi tiết là ký ức rời rạc, thứ tự có thể không chắc.",
       "points": [
         {
           "label": "Rời Saint Petersburg",
-          "text": "Cuối tháng 2 hoặc đầu tháng 3/2025, Sergey nói mẹ Lan đang đợi ở “bên kia”, lấy điện thoại cũ và đưa một điện thoại gần như trống."
+          "text": "Cuối tháng 2 hoặc đầu tháng 3/2025, Sergey nói mẹ Lan đang đợi ở “bên kia”, kiểm soát điện thoại của Lan và đưa lại chiếc Samsung để dùng trong lúc di chuyển."
         },
         {
           "label": "Nga đến Ba Lan",
@@ -407,15 +407,15 @@
       "points": [
         {
           "label": "Điện thoại cũ",
-          "text": "Lan nói Sergey thu hồi điện thoại cũ có ảnh và tin nhắn trước khi rời Saint Petersburg."
+          "text": "Lan có một điện thoại cũ Meizu từ thời Donetsk. Sau đó Sergey lấy Meizu và đưa cho Lan một Samsung cũ."
         },
         {
-          "label": "Điện thoại mới",
-          "text": "Sergey đưa một điện thoại “sạch” để nhận lệnh trong chuyến đi. Lan chỉ biết bật/tắt máy và dùng theo chỉ dẫn."
+          "label": "Điện thoại Samsung",
+          "text": "Trong Samsung có một ít ảnh cũ, đồng thời Sergey dùng nó để kiểm soát liên lạc và nhận lệnh. Lan chỉ biết bật/tắt máy và dùng theo chỉ dẫn."
         },
         {
           "label": "Cách trả lời an toàn",
-          "text": "Nếu không chắc ai cài đặt hoặc xóa gì, Lan nên nói đúng mức mình biết: “cháu không tự cài, cháu chỉ nhận máy và dùng vì sợ”."
+          "text": "Nếu không chắc ai cài đặt hoặc xóa gì, Lan nên nói đúng mức mình biết: “cháu có Meizu cũ, Sergey lấy rồi đưa Samsung; cháu chỉ dùng vì sợ”."
         }
       ]
     },
