@@ -3,6 +3,7 @@
   export let events;
   export let filters;
   export let stages;
+  export let interviewNotes = [];
 
   const colorMeta = {
     red: {
@@ -430,6 +431,42 @@
       </aside>
     </section>
   {/if}
+
+  {#if interviewNotes.length}
+    <section class="prep-notes" aria-labelledby="prep-title">
+      <div class="prep-heading">
+        <p class="section-label">Chuẩn bị phỏng vấn sâu</p>
+        <h2 id="prep-title">Chi tiết Lan có thể đọc lại trước khi trả lời</h2>
+        <p>
+          Chỉ dùng những chi tiết đúng với ký ức thật. Nếu không chắc, Lan nên nói “cháu không nhớ rõ”
+          hoặc “cháu không chắc”, thay vì cố trả lời chính xác.
+        </p>
+      </div>
+
+      <div class="prep-grid">
+        {#each interviewNotes as section}
+          <article class="prep-card">
+            <div class="prep-card-heading">
+              <span>{section.id}</span>
+              <h3>{section.title}</h3>
+            </div>
+            {#if section.summary}
+              <p class="prep-summary">{section.summary}</p>
+            {/if}
+
+            <ul>
+              {#each section.points as point}
+                <li>
+                  <strong>{point.label}</strong>
+                  <span>{point.text}</span>
+                </li>
+              {/each}
+            </ul>
+          </article>
+        {/each}
+      </div>
+    </section>
+  {/if}
 </main>
 
 <style>
@@ -534,7 +571,8 @@
   .control-band,
   .journey,
   .timeline-layout,
-  .map-layout {
+  .map-layout,
+  .prep-notes {
     margin-top: 18px;
     border: 1px solid #d8ded8;
     background: rgba(255, 255, 255, 0.9);
@@ -1044,6 +1082,101 @@
     line-height: 1.6;
   }
 
+  .prep-notes {
+    padding: 24px;
+  }
+
+  .prep-heading {
+    display: grid;
+    gap: 8px;
+    max-width: 820px;
+  }
+
+  .prep-heading h2 {
+    margin: 0;
+    font-size: clamp(1.6rem, 3vw, 2.4rem);
+    line-height: 1.08;
+    letter-spacing: 0;
+  }
+
+  .prep-heading p {
+    margin: 0;
+    color: #2b3933;
+    line-height: 1.6;
+  }
+
+  .prep-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+    margin-top: 22px;
+  }
+
+  .prep-card {
+    min-width: 0;
+    border: 1px solid #cbd4cc;
+    border-radius: 8px;
+    padding: 18px;
+    background: #ffffff;
+  }
+
+  .prep-card-heading {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .prep-card-heading span {
+    display: inline-grid;
+    flex: 0 0 auto;
+    width: 34px;
+    height: 34px;
+    place-items: center;
+    border-radius: 50%;
+    background: #121816;
+    color: #ffffff;
+    font-weight: 900;
+  }
+
+  .prep-card h3 {
+    margin: 2px 0 0;
+    font-size: 1.08rem;
+    line-height: 1.28;
+    letter-spacing: 0;
+  }
+
+  .prep-summary {
+    margin: 12px 0 0;
+    color: #4a5751;
+    line-height: 1.55;
+  }
+
+  .prep-card ul {
+    display: grid;
+    gap: 12px;
+    margin: 16px 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .prep-card li {
+    border-top: 1px solid #d8ded8;
+    padding-top: 12px;
+  }
+
+  .prep-card li strong {
+    display: block;
+    color: #121816;
+    font-size: 0.9rem;
+  }
+
+  .prep-card li span {
+    display: block;
+    margin-top: 4px;
+    color: #2b3933;
+    line-height: 1.55;
+  }
+
   .pulse {
     animation: pulseBorder 850ms ease;
   }
@@ -1060,7 +1193,8 @@
   @media (max-width: 980px) {
     .case-header,
     .timeline-layout,
-    .map-layout {
+    .map-layout,
+    .prep-grid {
       grid-template-columns: 1fr;
     }
 
@@ -1096,7 +1230,8 @@
     .timeline-panel,
     .detail-card,
     .map-toolbar,
-    .map-summary {
+    .map-summary,
+    .prep-notes {
       padding: 16px;
     }
 

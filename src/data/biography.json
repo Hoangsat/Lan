@@ -259,5 +259,192 @@
         "y": 390
       }
     }
+  ],
+  "interviewNotes": [
+    {
+      "id": "A",
+      "title": "Gia đình và tuổi thơ ở Donetsk",
+      "summary": "Những chi tiết giúp Lan nhớ lại bối cảnh trước khi rời Donetsk lần đầu.",
+      "points": [
+        {
+          "label": "Bố",
+          "text": "Theo lời mẹ kể, bố là Nguyễn Mùi Văn, sinh năm 1967, làm lái xe chở hàng đường dài. Bố thường đi 1-2 lần mỗi tuần, mỗi chuyến khoảng 2-3 ngày. Khi Lan quay lại Donetsk thì bố mẹ đã ly dị."
+        },
+        {
+          "label": "Cuộc gọi cuối",
+          "text": "Lan không nhớ rõ cuộc gọi cuối với bố vì hai bố con rất ít nói chuyện."
+        },
+        {
+          "label": "Căn hộ",
+          "text": "Căn hộ ở tầng 3. Một cửa sổ nhìn ra bệnh viện, cửa sổ còn lại nhìn về một tòa nhà đang xây dở và bị bỏ hoang."
+        },
+        {
+          "label": "Hàng xóm",
+          "text": "Bên cạnh có gia đình ông Ivan. Lan nhớ ông ấy nghiện rượu, có lần hát rất to ban đêm, sau đó có tiếng chửi nhau và tiếng chai lọ vỡ."
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Hà Nội, bà ngoại và trường Trưng Vương",
+      "summary": "Các ký ức giác quan ở Việt Nam giúp câu chuyện không bị khô như một bản danh sách.",
+      "points": [
+        {
+          "label": "Bà ngoại",
+          "text": "Bà Trần Thị Hoa thấp, tóc bạc nhiều, thường búi cao sau gáy, có nốt ruồi lớn ở má phải. Bàn tay bà hay run khi cầm kim thêu vì bị tê thấp."
+        },
+        {
+          "label": "Cửa hàng và việc phụ giúp",
+          "text": "Bà bán tạp hóa, Lan hay phụ bà làm thêm những việc nhỏ trong cửa hàng."
+        },
+        {
+          "label": "Món ăn",
+          "text": "Lan nhớ canh cua rau đinh lăng, rau mọc trong chậu trước nhà, cùng mùi lá lốt nướng."
+        },
+        {
+          "label": "Trường học",
+          "text": "Ở Trường Tiểu học Trưng Vương, bạn Hiền ngồi bàn thứ ba từ cửa sổ. Lan nhớ có lần bị lạc trong sân trường lớp 2 và khóc ở gốc cây bàng."
+        },
+        {
+          "label": "Tiếng Việt",
+          "text": "Ban đầu tiếng Việt nghe như tiếng chim hót. Lan mất gần một năm mới nói chuyện cơ bản được."
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Trở lại Donetsk và chiến sự 2022",
+      "summary": "Phần này giúp Lan giải thích vì sao việc trở về không phải là ổn định, mà là một giai đoạn khủng hoảng mới.",
+      "points": [
+        {
+          "label": "Công việc của mẹ",
+          "text": "Mẹ làm ở cửa hàng quần áo, thường đi làm từ 9 giờ sáng đến 4-5 giờ chiều. Tiền lương ít, có hôm hai mẹ con chỉ ăn bánh mì đen và xúc xích."
+        },
+        {
+          "label": "Mariupol",
+          "text": "Thứ hai hằng tuần mẹ thường lên Mariupol lấy hàng, thỉnh thoảng Lan được đi cùng. Vì COVID ít khách, hai mẹ con hay ở nhà làm đồ ăn bán cho người trong khu."
+        },
+        {
+          "label": "Mẹ con",
+          "text": "Mẹ thương Lan nhưng ít biểu lộ. Buổi tối mẹ hay ngồi cạnh Lan xem ti vi và day thái dương vì đau đầu."
+        },
+        {
+          "label": "Tháng 2/2022",
+          "text": "Lan nhớ tiếng bom rất to, rung cửa kính. Lúc đó mẹ và Lan đang ở Mariupol, phải xuống tầng hầm trú ẩn tối, ẩm mốc. Có lần mẹ ôm Lan và nói: “Con phải sống”."
+        },
+        {
+          "label": "Trường số 51",
+          "text": "Cô Galina có một cái răng vàng và thương Lan vì Lan cố gắng. Năm 2019, do COVID học ở nhà, Lan không có máy tính, điện thoại mạng yếu nên hay bỏ học. Mẹ thuê cô giáo dạy tiếng Nga mỗi tuần một lần."
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "title": "Rostov, Saint Petersburg và Sergey",
+      "summary": "Những chi tiết này dùng để nhớ môi trường kiểm soát, nỗi sợ và việc bị bóc lột.",
+      "points": [
+        {
+          "label": "Trại Rostov",
+          "text": "Trại rất đông, khoảng 300-400 người, giống một trường học. Lan ở trong phòng thể dục tập thể, ban đêm lạnh và chỉ có chăn mỏng. Lan nhớ mình ở đó khoảng một năm."
+        },
+        {
+          "label": "Valera",
+          "text": "Chú Valera khoảng 45 tuổi, tóc bạc, hay ho khan. Ông ấy bảo lãnh Lan ra khỏi trại để đến Saint Petersburg."
+        },
+        {
+          "label": "Sergey",
+          "text": "Sergey cao khoảng 1m85, người rất to, mặt tròn, mũi khoằm, mùi cơ thể nồng. Ông ta có hình xăm mỏ neo bị lem ở mu bàn tay phải và hay chửi thề bằng tiếng Nga."
+        },
+        {
+          "label": "Lời đe dọa",
+          "text": "Lan nhớ Sergey nói đại ý: “Ở đây tao là luật. Mày trả nợ bằng cách làm việc”. Lan sợ Sergey và cũng sợ cảnh sát Nga."
+        },
+        {
+          "label": "Nơi ở và công việc",
+          "text": "Sergey đưa Lan đến căn hộ thuê bẩn, giấy dán tường bong tróc, có 3 đứa trẻ khác. Công việc chính là may quần áo, nhưng Lan nói mình còn bị ép giao các gói nhỏ và gửi tọa độ qua điện thoại."
+        },
+        {
+          "label": "Ngôn ngữ sinh tồn",
+          "text": "Sergey hầu như chỉ ra lệnh ngắn như “đi”, “làm đi”, “ngủ đi”. Lan học vài từ cơ bản để tránh bị đánh, không học ngữ pháp hay viết."
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "title": "Hành trình từ Nga đến Edinburgh",
+      "summary": "Tóm tắt các chặng chính để Lan ôn lại trình tự, không cần cố nhớ ngày giờ chính xác nếu không chắc.",
+      "points": [
+        {
+          "label": "Rời Saint Petersburg",
+          "text": "Cuối tháng 2 hoặc đầu tháng 3/2025, Sergey nói mẹ Lan đang đợi ở “bên kia”, lấy điện thoại cũ và đưa một điện thoại gần như trống."
+        },
+        {
+          "label": "Nga đến Ba Lan",
+          "text": "Lan nhớ một xe tải lạnh màu trắng, thùng đông lạnh, xung quanh có thùng cá, rất lạnh. Ăn bánh mì đen, xúc xích và uống nước do tài xế đưa."
+        },
+        {
+          "label": "Ba Lan đến Đức",
+          "text": "Lan chuyển sang xe van màu xám, không có ghế sau, nằm trên tấm bạt bẩn, ngửi thấy mùi xăng, nhớt và khói. Có lúc thấy cối xay gió và đèn đỏ nhấp nháy."
+        },
+        {
+          "label": "Đức, Bỉ, Pháp",
+          "text": "Lan nhớ một xe du lịch cũ màu đen, rèm che kín. Tài xế nói tiếng Nga giọng lạ, dọa không được nhìn ra ngoài. Có biển Lille và Calais."
+        },
+        {
+          "label": "Phà sang Anh",
+          "text": "Lan nhớ mùi muối, nước mặn, cao su cháy, nhiều xe tải xếp hàng, tiếng còi tàu và cảm giác chòng chành. Lan bị say sóng và không hiểu loa phát thanh bằng tiếng Anh."
+        },
+        {
+          "label": "Đến Edinburgh",
+          "text": "Sau khi vào Anh, Lan đi tiếp qua nhiều chặng. Cuối cùng bị thả xuống khu công nghiệp Cảng Leith, Edinburgh, khoảng 2-3 giờ sáng, trời mưa, lạnh, nhiều container và mùi biển."
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "title": "Điện thoại và dữ liệu trống",
+      "summary": "Điểm này rất quan trọng vì cán bộ có thể hỏi tại sao điện thoại không có ảnh, tin nhắn hay lịch sử cũ.",
+      "points": [
+        {
+          "label": "Điện thoại cũ",
+          "text": "Lan nói Sergey thu hồi điện thoại cũ có ảnh và tin nhắn trước khi rời Saint Petersburg."
+        },
+        {
+          "label": "Điện thoại mới",
+          "text": "Sergey đưa một điện thoại “sạch” để nhận lệnh trong chuyến đi. Lan chỉ biết bật/tắt máy và dùng theo chỉ dẫn."
+        },
+        {
+          "label": "Cách trả lời an toàn",
+          "text": "Nếu không chắc ai cài đặt hoặc xóa gì, Lan nên nói đúng mức mình biết: “cháu không tự cài, cháu chỉ nhận máy và dùng vì sợ”."
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "title": "Câu hỏi luật sư có thể tập dượt",
+      "summary": "Các câu hỏi này nên tập với luật sư hoặc người hỗ trợ. Câu trả lời phải dựa trên ký ức thật, không học thuộc như kịch bản.",
+      "points": [
+        {
+          "label": "Vì sao không xin bảo vệ ở Ba Lan/Đức/Pháp?",
+          "text": "Lan có thể giải thích rằng em không biết ngôn ngữ, không biết mình đang ở đâu, bị đe dọa và sợ nếu bỏ trốn sẽ bị tìm thấy."
+        },
+        {
+          "label": "Có bằng chứng bị buôn bán không?",
+          "text": "Lan có thể kể những gì còn nhớ về Sergey, căn hộ, điện thoại bị lấy, nỗi sợ cảnh sát Nga, và nói rõ nếu không có giấy tờ chứng minh."
+        },
+        {
+          "label": "Vì sao không tự tìm cảnh sát ngay?",
+          "text": "Lan có thể nói em sợ cảnh sát vì trải nghiệm và lời đe dọa ở Nga, không biết tiếng Anh và không hiểu cảnh sát Anh có thể giúp."
+        },
+        {
+          "label": "Lan muốn gì ở Anh?",
+          "text": "Lan có thể nói muốn được an toàn, được đi học, có người hỗ trợ hợp pháp và tìm mẹ qua tổ chức phù hợp như Red Cross."
+        },
+        {
+          "label": "Có muốn về Việt Nam không?",
+          "text": "Lan nên trả lời đúng hoàn cảnh thật: bà ngoại đã mất, em không còn điểm tựa chăm sóc rõ ràng ở Việt Nam, và mong muốn chính là tìm mẹ."
+        }
+      ]
+    }
   ]
 }
