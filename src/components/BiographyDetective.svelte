@@ -257,8 +257,11 @@
       {/each}
     </div>
 
-    <a class="read-link" href="/biography/">Đọc toàn bộ tiểu sử</a>
-    <button type="button" class="clue-button" on:click={showRandomClue}>Câu hỏi ngẫu nhiên</button>
+    <div class="control-actions">
+      <a class="read-link" href="/biography/">Đọc toàn bộ tiểu sử</a>
+      <a class="read-link" href="/sergey-journey/">Sergey & hành trình</a>
+      <button type="button" class="clue-button" on:click={showRandomClue}>Mốc ngẫu nhiên</button>
+    </div>
   </section>
 
   <section class="journey" aria-label="Tiến trình nhập cư">
@@ -605,10 +608,29 @@
 
   .control-band {
     display: grid;
-    grid-template-columns: auto minmax(0, 1fr) auto auto;
-    gap: 14px;
+    grid-template-areas:
+      "modes actions"
+      "filters filters";
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 12px 14px;
     align-items: center;
     padding: 16px;
+  }
+
+  .mode-switch {
+    grid-area: modes;
+  }
+
+  .filters {
+    grid-area: filters;
+  }
+
+  .control-actions {
+    grid-area: actions;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-end;
   }
 
   .mode-switch,
@@ -1262,6 +1284,14 @@
 
     .control-band {
       grid-template-columns: 1fr;
+      grid-template-areas:
+        "modes"
+        "filters"
+        "actions";
+    }
+
+    .control-actions {
+      justify-content: flex-start;
     }
 
     .timeline-panel,

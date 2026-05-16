@@ -209,48 +209,60 @@
         "y": 350
       }
     },
-    {
+        {
       "id": "2022_sergey",
-      "date": "2022-2025",
-      "title": "Bị Sergey ép làm việc giao gói tại Nga",
+      "date": "07/2023-02/2025",
+      "title": "Bị Sergey kiểm soát và ép làm zakladka",
       "shortTitle": "Sergey",
-      "description": "Valera ở trại Rostov quen Sergey. Sau đó Sergey đưa Lan ra ngoài, kiểm soát điện thoại và ép em làm việc, gồm cả việc giao các gói nhỏ.",
-      "type": ["loss"],
+      "description": "Valera ở trại Rostov dẫn Sergey đến gặp Lan khoảng 07/2023. Sergey hứa giúp tìm mẹ, rồi đưa Lan tới căn hộ cũ ở Saint Petersburg, kiểm soát điện thoại Samsung và ép Lan giấu các gói nhỏ, chụp ảnh, gửi tọa độ.",
+      "type": [
+        "loss"
+      ],
       "causes": [
-        "Lan không có người giám hộ đáng tin cậy bên cạnh",
-        "Thiếu giấy tờ và sợ cảnh sát khiến em không dám tìm trợ giúp"
+        "Lan là trẻ vị thành niên, không có người thân hay người giám hộ đáng tin cậy bên cạnh",
+        "Sergey nói mẹ Lan đang ở châu Âu và hứa sẽ giúp Lan tìm mẹ",
+        "Thiếu giấy tờ và sợ cảnh sát Nga khiến Lan không dám tìm trợ giúp"
       ],
       "consequences": [
-        "Điện thoại Meizu cũ bị lấy, sau đó Sergey đưa một Samsung cũ",
-        "Lan bị đe dọa phải làm việc để trả tiền ăn, ở và di chuyển"
+        "Lan bị ép làm zakladka, mỗi lần vài gói; Lan không nhớ chính xác số lượng, có thể khoảng 20-30 lần hoặc hơn",
+        "Lan bị đánh, tát, đẩy ngã, bắt cắt tóc và từng bị nhốt trong phòng không có cửa sổ",
+        "Sergey lấy Meizu cũ, đưa Samsung có Telegram và bản đồ để nhận lệnh"
       ],
-      "context": "Tình tiết này cho thấy nguy cơ bóc lột trẻ vị thành niên trong di cư cưỡng bức: người kiểm soát chỗ ở, điện thoại, công việc và nỗi sợ cũng kiểm soát lựa chọn.",
-      "emotion": "Khiếp sợ, bị mắc kẹt, không tin ai",
+      "context": "Sergey kiểm soát nơi ở, điện thoại, đồ ăn, việc đi lại và nỗi sợ cảnh sát của Lan. Lúc đầu Lan không biết trong gói là gì; sau khi một gói bị rách và thấy bột trắng, Lan mới đoán đó là ma túy. Lan không được trả lương, chỉ bị nói là đang trả nợ tiền ăn, ở và di chuyển.",
+      "emotion": "Khiếp sợ, bị mắc kẹt, xấu hổ, không tin ai",
       "color": "red",
       "stage": "crisis",
-      "linked_events": ["2025_den_anh"],
+      "linked_events": [
+        "2025_den_anh"
+      ],
       "map": {
         "x": 735,
         "y": 245
       }
     },
-    {
+        {
       "id": "2025_den_anh",
-      "date": "2025",
-      "title": "Đến Edinburgh và được cảnh sát hỗ trợ",
+      "date": "02/2025-03/2025",
+      "title": "Bị đưa qua nhiều chặng đến Leith Docks, Edinburgh",
       "shortTitle": "Edinburgh",
-      "description": "Lan đi qua nhiều chặng ban đêm, chỉ nhớ một số chi tiết rời rạc, rồi bị lạc khỏi đoàn tại một khu công nghiệp cảng. Sau này cảnh sát nói nơi đó là Edinburgh.",
-      "type": ["achievement", "decision", "loss"],
+      "description": "Cuối 02 hoặc đầu 03/2025, Sergey nói mẹ Lan đang đợi “bên kia” và tổ chức chuyến đi. Lan bị đưa qua nhiều chặng xe và phà trong khoảng 3-4 tuần, rồi bị bỏ lại ở khu công nghiệp cảng; sau này cảnh sát nói đó là Leith Docks, Edinburgh.",
+      "type": [
+        "achievement",
+        "decision",
+        "loss"
+      ],
       "causes": [
-        "Sergey nói rằng mẹ Lan đang đợi em ở châu Âu",
-        "Lan muốn tìm mẹ và thoát khỏi sự kiểm soát ở Nga"
+        "Sergey nói mẹ Lan đang đợi ở “bên kia”",
+        "Lan muốn tìm mẹ và thoát khỏi sự kiểm soát ở Nga",
+        "Lan không kiểm soát được tài xế, lộ trình, giấy tờ hay điểm dừng"
       ],
       "consequences": [
-        "Lan lần đầu tiếp xúc với cảnh sát tại Edinburgh trong trạng thái cần bảo vệ",
-        "Câu hỏi chính trở thành: giấy tờ, điện thoại và lời kể có khớp với hành trình không?"
+        "Lan bị bỏ lại lúc khoảng 2-3 giờ sáng trong mưa, gió lạnh, gần container và cần cẩu",
+        "Lan không biết mình đang ở đâu cho đến khi cảnh sát hoặc người hỗ trợ nói đó là Leith Docks, Edinburgh",
+        "Câu hỏi chính khi phỏng vấn là vì sao Lan không thể xin bảo vệ ở các nước trên đường"
       ],
-      "context": "Lan không biết tiếng Anh, không có tiền riêng. Chi tiết hành trình được nhớ theo mảnh rời rạc, thứ tự một số điểm dừng có thể không chắc.",
-      "emotion": "Hoảng loạn, lạnh, kiệt sức, rồi nhẹ nhõm",
+      "context": "Lan nhớ các chặng theo mảnh rời rạc: xe tải trắng thùng lạnh có mùi cá, van xám nằm dưới sàn phủ bạt, xe du lịch đen cũ có rèm, phà ban đêm và xe tải nhỏ trắng bẩn sau phà. Lan có thể nhớ Ba Lan, Đức, Bỉ, Pháp rồi Anh, nhưng không chắc thứ tự và có thể đã qua thêm nước khác.",
+      "emotion": "Hoảng loạn, lạnh, kiệt sức, sợ bị bỏ rơi",
       "color": "green",
       "stage": "rooting",
       "linked_events": [],
@@ -334,69 +346,77 @@
         },
         {
           "label": "Trường số 51",
-          "text": "Cô Galina có một cái răng vàng và thương Lan vì Lan cố gắng. Từ năm học 2019-2020, do COVID học ở nhà, Lan không có máy tính, điện thoại mạng yếu nên hay bỏ học. Mẹ thuê cô giáo dạy tiếng Nga mỗi tuần một lần."
+          "text": "Cô Ana có một cái răng vàng và thương Lan vì Lan cố gắng. Từ năm học 2019-2020, do COVID học ở nhà, Lan không có máy tính, điện thoại mạng yếu nên hay bỏ học. Mẹ thuê cô giáo dạy tiếng Nga mỗi tuần một lần."
         }
       ]
     },
-    {
+        {
       "id": "D",
       "title": "Rostov, Saint Petersburg và Sergey",
-      "summary": "Những chi tiết này dùng để nhớ môi trường kiểm soát, nỗi sợ và việc bị bóc lột.",
+      "summary": "Những chi tiết này dùng để nhớ môi trường kiểm soát, nỗi sợ và việc bị ép làm zakladka.",
       "points": [
         {
           "label": "Trại Rostov",
-          "text": "Trại rất đông, khoảng 300-400 người, giống một trường học. Lan ở trong phòng thể dục tập thể, ban đêm lạnh và chỉ có chăn mỏng. Lan nhớ mình ở đó khoảng 07/2022-07/2023."
+          "text": "Lan ở trại gần Rostov khoảng 07/2022-07/2023. Trại đông, giống một trường học; Lan phụ thuộc vào người lớn trong trại và không có người thân bảo vệ."
         },
         {
-          "label": "Valera",
-          "text": "Chú Valera khoảng 45 tuổi, tóc bạc, hay ho khan. Ông ta là người quản lý/giám sát trong trại Rostov. Khoảng 07/2023, Valera quen Sergey và là người nối Lan với Sergey trước khi Lan bị đưa đến Saint Petersburg. Giai đoạn 07/2023-12/2024 Lan ở Saint Petersburg; khoảng 01/2025-02/2025 Sergey chuẩn bị đưa Lan rời Nga."
+          "label": "Valera và lần gặp Sergey",
+          "text": "Khoảng 07/2023, Valera dẫn Sergey đến gặp Lan và nói Sergey là người tốt, sẽ giúp Lan. Sergey hỏi tên, hỏi Lan từ đâu đến, rồi hứa đưa Lan ra khỏi trại và giúp tìm mẹ."
         },
         {
           "label": "Sergey",
-          "text": "Sergey cao khoảng 1m85, người rất to, mặt tròn, mũi khoằm, mùi cơ thể nồng. Ông ta có hình xăm mỏ neo bị lem ở mu bàn tay phải và hay chửi thề bằng tiếng Nga."
+          "text": "Sergey cao khoảng 1m85, người to, mặt tròn, mũi hơi khoằm, giọng khàn, hay chửi thề. Ông ta có hình xăm mỏ neo cũ, bị lem ở mu bàn tay phải, người có mùi mồ hôi và thuốc lá."
         },
         {
-          "label": "Lời đe dọa",
-          "text": "Lan nhớ Sergey nói đại ý: “Ở đây tao là luật. Mày trả nợ bằng cách làm việc”. Lan sợ Sergey và cũng sợ cảnh sát Nga."
+          "label": "Vì sao Lan đi theo",
+          "text": "Lan không tin hẳn, nhưng không có lựa chọn rõ ràng, không có người thân, muốn rời trại và rất nhớ mẹ. Sergey nói mẹ Lan đang ở châu Âu và đang chờ Lan."
         },
         {
-          "label": "Nơi ở và công việc",
-          "text": "Sergey đưa Lan đến căn hộ thuê bẩn, giấy dán tường bong tróc, có 3 đứa trẻ khác. Sergey bảo Lan bỏ các gói nhỏ ở nơi kín, chụp ảnh và gửi tọa độ qua điện thoại. Lúc đầu Lan không biết đó là gì. Sau này Lan hiểu đó là ma túy. Lan sợ chết, không dám từ chối, chưa bao giờ nhận tiền và không tự nguyện. Sergey lấy điện thoại Meizu cũ của Lan và đưa một Samsung cũ để kiểm soát liên lạc."
+          "label": "Căn hộ ở Saint Petersburg",
+          "text": "Căn hộ cũ, tầng thấp, cửa sắt rỉ, giấy dán tường bong tróc, có mùi rượu và đồ ăn chiên. Phòng Lan rất nhỏ, không có cửa sổ, chỉ có nệm cũ trên sàn. Lan nhớ Dima, Alina và một bạn khác."
         },
         {
-          "label": "Ngôn ngữ sinh tồn",
-          "text": "Sergey hầu như chỉ ra lệnh ngắn như “đi”, “làm đi”, “ngủ đi”. Lan nói được vài câu sinh tồn như “đi”, “dừng”, “lấy cái này”, “tôi sợ”, nghe hiểu khoảng 30-40% nếu người ta nói chậm, nhưng không đọc báo, không viết tin nhắn dài và không hiểu giấy tờ chính thức."
+          "label": "Zakladka",
+          "text": "Sergey bắt Lan giấu các gói nhỏ ở chỗ kín, chụp ảnh và gửi tọa độ qua Samsung. Lúc đầu Lan không biết là gì; sau khi một gói bị rách và thấy bột trắng, Lan mới đoán là ma túy."
+        },
+        {
+          "label": "Trừng phạt và nỗi sợ",
+          "text": "Nếu Lan từ chối, Sergey đánh. Lan nhớ bị tát, bị đẩy ngã, bị bắt cắt tóc và từng bị nhốt trong phòng không có cửa sổ khoảng một ngày hoặc hơn. Lan sợ Sergey và sợ cảnh sát Nga sẽ bắt mình."
         }
       ]
     },
-    {
+        {
       "id": "E",
       "title": "Hành trình từ Nga đến Edinburgh",
       "summary": "Tóm tắt các chặng chính để Lan ôn lại trình tự. Một số chi tiết là ký ức rời rạc, thứ tự có thể không chắc.",
       "points": [
         {
-          "label": "Rời Saint Petersburg",
-          "text": "Cuối tháng 2 hoặc đầu tháng 3/2025, Sergey nói mẹ Lan đang đợi ở “bên kia”, kiểm soát điện thoại của Lan và đưa lại chiếc Samsung để dùng trong lúc di chuyển."
+          "label": "Rời Nga",
+          "text": "Cuối tháng 2 hoặc đầu tháng 3/2025, Sergey nói mẹ Lan đang đợi “bên kia”. Ông ta tổ chức chuyến đi, đưa Lan đến điểm xuất phát, rồi các tài xế khác đưa Lan đi tiếp."
         },
         {
-          "label": "Hướng sang phía Tây",
-          "text": "Lan nhớ rời rạc Ba Lan qua chữ viết/biển hiệu. Các nước và thứ tự chỉ là phần được ghép lại sau này từ biển báo, âm thanh, lời người khác nói và những gì cảnh sát/nhân viên hỗ trợ giải thích."
+          "label": "Các xe Lan nhớ",
+          "text": "Lan nhớ xe tải trắng thùng lạnh có mùi cá; van xám, nằm dưới sàn và phủ bạt; xe du lịch đen cũ có rèm; sau phà là xe tải nhỏ màu trắng bẩn."
         },
         {
-          "label": "Xe van màu xám",
-          "text": "Lan nhớ chuyển sang xe van màu xám, không có ghế sau, nằm trên tấm bạt bẩn, ngửi thấy mùi xăng, nhớt và khói. Có lúc thấy cối xay gió và đèn đỏ nhấp nháy."
+          "label": "Khung thời gian ước lượng",
+          "text": "Chỉ dùng để ôn, không nói như lịch trình chắc chắn nếu không nhớ: tuần 1 rời Nga đi về hướng Ba Lan bằng xe tải lạnh; tuần 2 có thể qua Ba Lan, Đức, Bỉ bằng van xám và có lúc ngủ ở nhà người lạ; tuần 3 có thể từ Bỉ sang Pháp bằng xe du lịch và chờ phà; tuần 4 đi phà sang Anh rồi đi tiếp tới Edinburgh."
         },
         {
-          "label": "Các biển hiệu rời rạc",
-          "text": "Lan nhớ một xe du lịch cũ màu đen, rèm che kín. Có lúc nghe hoặc nhìn thấy những chữ như Lille, Calais, nhưng không chắc mình đang ở nước nào tại thời điểm đó."
+          "label": "Tài xế",
+          "text": "Có khoảng 4-5 tài xế. Một người không nói gì, một người trung niên để râu nói tiếng Nga giọng lạ, một người trẻ hơn không nói tiếng Nga. Lan không biết tên họ."
         },
         {
-          "label": "Phà sang Anh",
-          "text": "Lan nhớ mùi muối, nước mặn, cao su cháy, nhiều xe tải xếp hàng, tiếng còi tàu và cảm giác chòng chành. Lan bị say sóng và không hiểu loa phát thanh bằng tiếng Anh."
+          "label": "Các nước",
+          "text": "Lan nhớ có thể qua Ba Lan, Đức, Bỉ, Pháp rồi Anh, nhưng không chắc thứ tự. Có thể còn qua nước khác mà Lan không biết."
+        },
+        {
+          "label": "Phà và ăn ngủ",
+          "text": "Lan có đi phà ban đêm, nhớ mùi muối, nước mặn, cao su cháy, nhiều xe tải xếp hàng, tàu rung và chòng chành. Hành trình kéo dài khoảng 3-4 tuần; Lan ngủ trong xe, có lần trên sàn nhà người lạ hoặc trong nhà kho."
         },
         {
           "label": "Đến Edinburgh",
-          "text": "Sau khi vào Anh, Lan đi tiếp qua nhiều chặng. Cuối cùng bị thả xuống một khu công nghiệp cảng khoảng 2-3 giờ sáng. Lúc đó Lan không biết mình ở đâu; sau này cảnh sát nói đó là Leith Docks, Edinburgh."
+          "text": "Lan bị cho xuống xe ở khu công nghiệp cảng khoảng 2-3 giờ sáng, trời mưa to, gió lạnh, tối, có container và cần cẩu. Sau này cảnh sát nói đó là Leith Docks, Edinburgh."
         }
       ]
     },
@@ -504,30 +524,38 @@
         }
       ]
     },
-    {
+        {
       "id": "K",
       "title": "Hành trình sang Anh - chi tiết tập dượt",
       "summary": "Các chi tiết này chỉ là điểm neo ký ức, không cần trả lời như bản đồ chính xác.",
       "points": [
         {
           "label": "Chuẩn bị rời Nga",
-          "text": "Sergey nói trước khoảng một hoặc hai ngày, bảo Lan chỉ mang quần áo đang mặc. Meizu và đồ cá nhân bị lấy; Samsung dùng để nhận lệnh."
+          "text": "Cuối 02 hoặc đầu 03/2025, Sergey nói mẹ Lan đang đợi “bên kia”, tổ chức chuyến đi và bảo Lan chỉ dùng điện thoại để nhận lệnh, không gọi ai."
         },
         {
-          "label": "Xe đầu tiên",
-          "text": "Lan nhớ xe/thùng hàng tối, lạnh, có nhiều thùng hoặc hộp. Có lúc nghe như có giọng một đứa trẻ khác nhưng không nhìn thấy."
+          "label": "Các xe",
+          "text": "Xe tải trắng thùng lạnh có mùi cá; van xám, nằm dưới sàn phủ bạt; xe du lịch đen cũ có rèm; sau phà là xe tải nhỏ trắng bẩn."
         },
         {
-          "label": "Đồ ăn và trạm dừng",
-          "text": "Lan nhớ bánh cứng, nước, đôi khi xúc xích/bánh mì hoặc đồ ăn ở trạm xăng. Không nhớ dừng bao nhiêu lần."
+          "label": "Khung thời gian ước lượng",
+          "text": "Chỉ dùng để tập trả lời, không nói như lịch trình chắc chắn nếu Lan không nhớ. Có thể ước lượng: tuần 1 Nga/Ba Lan bằng xe tải lạnh; tuần 2 Ba Lan/Đức/Bỉ bằng van xám và có lúc ngủ ở nhà người lạ; tuần 3 Bỉ/Pháp bằng xe du lịch và chờ phà; tuần 4 phà/Anh/Edinburgh."
+        },
+        {
+          "label": "Đồ ăn và chỗ ngủ",
+          "text": "Lan nhớ bánh mì, xúc xích, nước; có lần sandwich và Coke ở trạm xăng ở Anh. Lan ngủ trong xe, có lần trên sàn nhà người lạ, có lần trong nhà kho tối và lạnh."
         },
         {
           "label": "Phà",
-          "text": "Lan không được ra ngoài. Chỉ nhìn qua khe nhỏ, nghe tiếng bước chân, tiếng xe, tiếng còi tàu và tiếng máy. Lan nhớ cảm giác chòng chành và buồn nôn."
+          "text": "Lan không biết tên cảng. Lúc đó trời tối, có mùi muối, nước mặn, cao su cháy, nhiều xe tải xếp hàng. Tàu rung, chòng chành; Lan bị say sóng và nôn."
         },
         {
           "label": "Xuống xe ở khu cảng",
-          "text": "Tài xế mở cửa, ra hiệu cho Lan xuống, chỉ tay về phía trước rồi lái đi. Lan chỉ thấy mưa, container, gió lạnh và mùi biển."
+          "text": "Tài xế bảo Lan xuống, đóng cửa và lái đi. Lan chỉ thấy mưa to, gió lạnh, bóng tối, container và cần cẩu. Sau này cảnh sát nói đó là Leith Docks, Edinburgh."
+        },
+        {
+          "label": "Vì sao không xin bảo vệ trên đường",
+          "text": "Lan không biết ngôn ngữ, không biết mình đang ở nước nào, bị giữ trong xe hoặc có người trông chừng, có lúc không được nhìn ra ngoài, bị dọa, sợ nếu bỏ chạy sẽ bị bắt lại và đánh. Lan cũng sợ cảnh sát ở các nước đó sẽ giao mình lại cho Nga hoặc bắt mình vì chuyện các gói nhỏ ở Nga."
         }
       ]
     },
@@ -596,7 +624,7 @@
         },
         {
           "label": "Bác Galina",
-          "text": "Galina là hàng xóm cũ ở cùng tầng 3, cách hai căn hộ; không phải cô giáo Galina ở trường. Mẹ tin bác vì bác từng giúp mẹ và nói có người quen ở Rostov."
+          "text": "Galina là hàng xóm cũ ở cùng tầng 3, cách hai căn hộ; không phải cô Ana ở trường. Mẹ tin bác vì bác từng giúp mẹ và nói có người quen ở Rostov."
         },
         {
           "label": "Lúc lên xe",
@@ -620,14 +648,14 @@
         }
       ]
     },
-    {
+        {
       "id": "N",
       "title": "Câu hỏi trọng tâm có khả năng bị hỏi",
       "summary": "Các câu này nên tập trả lời ngắn, thật và nhất quán.",
       "points": [
         {
           "label": "Vì sao không xin giúp ở Ba Lan/Đức/Pháp?",
-          "text": "Lan không biết ngôn ngữ, không biết mình ở nước nào, bị giữ trong xe/phòng, sợ bị đánh hoặc bị giết, và nghĩ cảnh sát sẽ bắt mình vì chuyện các gói nhỏ ở Nga."
+          "text": "Lan không biết ngôn ngữ, không biết mình ở nước nào, bị giữ trong xe hoặc có người trông chừng, có lúc không được nhìn ra ngoài, bị dọa, sợ nếu bỏ chạy sẽ bị bắt lại và đánh. Lan cũng sợ cảnh sát sẽ giao mình lại cho Nga hoặc bắt mình vì chuyện các gói nhỏ ở Nga."
         },
         {
           "label": "Giấy tờ ở đâu?",
@@ -643,11 +671,15 @@
         },
         {
           "label": "Vì sao không bỏ trốn sớm hơn?",
-          "text": "Không biết đường, không biết tiếng, bị kiểm soát, sợ cảnh sát Nga, sợ bị đánh hoặc bị giết."
+          "text": "Không biết đường, không biết tiếng, bị kiểm soát, sợ cảnh sát Nga, sợ Sergey, sợ bị đánh hoặc bị giết."
+        },
+        {
+          "label": "Làm sao biết đó là Edinburgh/Leith?",
+          "text": "Lúc bị bỏ lại, Lan không biết mình đang ở đâu. Sau này cảnh sát hoặc người hỗ trợ nói với Lan đó là Leith Docks, Edinburgh."
         }
       ]
     },
-    {
+        {
       "id": "O",
       "title": "Tóm tắt 1 trang",
       "summary": "Phần ôn nhanh trước phỏng vấn, không thay thế lời kể đầy đủ.",
@@ -665,12 +697,16 @@
           "text": "Bà ngoại mất, Lan quay lại Donetsk với mẹ. Cuối tháng 7/2022 mẹ đưa Lan tới điểm tập kết xe ở Donetsk và gửi Lan theo nhóm tị nạn sang Rostov cùng bác Galina."
         },
         {
-          "label": "2022-2025",
-          "text": "07/2022-07/2023 Rostov; 07/2023-12/2024 Saint Petersburg; Sergey lấy Meizu, đưa Samsung và ép Lan bỏ các gói nhỏ."
+          "label": "07/2023-02/2025",
+          "text": "Valera dẫn Sergey đến gặp Lan. Sergey đưa Lan tới căn hộ cũ ở Saint Petersburg, lấy Meizu, đưa Samsung và ép Lan giấu các gói nhỏ, chụp ảnh, gửi tọa độ."
         },
         {
-          "label": "2025",
-          "text": "Lan bị đưa qua nhiều chặng xe/phà, nhớ rời rạc, rồi bị bỏ lại ở khu cảng. Sau này cảnh sát nói đó là Leith/Edinburgh."
+          "label": "02/2025-03/2025",
+          "text": "Sergey nói mẹ Lan đang đợi “bên kia” và tổ chức chuyến đi. Lan bị đưa qua nhiều xe và phà khoảng 3-4 tuần, rồi bị bỏ lại ở Leith Docks, Edinburgh."
+        },
+        {
+          "label": "Khung thời gian hành trình",
+          "text": "Chỉ dùng để ôn nếu Lan cần ước lượng: tuần 1 Nga/Ba Lan; tuần 2 Ba Lan/Đức/Bỉ; tuần 3 Bỉ/Pháp/chờ phà; tuần 4 phà/Anh/Edinburgh. Nếu không chắc ngày nào thì nói không nhớ."
         },
         {
           "label": "Mong muốn",
@@ -678,18 +714,22 @@
         }
       ]
     },
-    {
+        {
       "id": "P",
       "title": "Câu hỏi luật sư có thể tập dượt",
       "summary": "Các câu hỏi này nên tập với luật sư hoặc người hỗ trợ. Câu trả lời phải dựa trên ký ức thật, không học thuộc như kịch bản.",
       "points": [
         {
           "label": "Vì sao không xin bảo vệ ở Ba Lan/Đức/Pháp?",
-          "text": "Lan có thể giải thích rằng em không biết ngôn ngữ, không biết mình đang ở đâu, bị đe dọa, có lúc bị nhốt trong xe hoặc cửa xe bị khóa, và sợ nếu bỏ trốn sẽ bị đánh hoặc bị giết."
+          "text": "Lan có thể giải thích rằng em không biết ngôn ngữ, không biết mình đang ở đâu, bị đe dọa, có lúc bị giữ trong xe hoặc không được nhìn ra ngoài. Em sợ nếu bỏ chạy sẽ bị bắt lại và đánh. Em cũng sợ cảnh sát ở các nước đó sẽ giao em lại cho Nga hoặc bắt em vì chuyện các gói nhỏ ở Nga."
+        },
+        {
+          "label": "Nếu bị hỏi ngày thứ ba sau khi rời Nga",
+          "text": "Lan không nên đoán chắc nếu không nhớ. Có thể nói: em không nhớ ngày chính xác; nếu phải ước lượng thì đó vẫn là giai đoạn đầu, trong hoặc ngay sau xe tải lạnh hướng Nga-Ba Lan. Em nhớ cảm giác lạnh, mùi cá và việc bị giữ trong xe hơn là ngày tháng."
         },
         {
           "label": "Có bằng chứng bị buôn bán không?",
-          "text": "Lan có thể kể những gì còn nhớ về Sergey, căn hộ, điện thoại bị lấy, nỗi sợ cảnh sát Nga, và nói rõ nếu không có giấy tờ chứng minh."
+          "text": "Lan có thể kể những gì còn nhớ về Sergey, căn hộ, điện thoại bị lấy, việc bị ép làm zakladka, bị tát, bị đẩy ngã, bị cắt tóc, bị nhốt, nỗi sợ cảnh sát Nga, và nói rõ nếu không có giấy tờ chứng minh."
         },
         {
           "label": "Vì sao không tự tìm cảnh sát ngay?",
@@ -705,7 +745,7 @@
         },
         {
           "label": "Làm sao biết đó là Edinburgh?",
-          "text": "Lan nên nói rõ: lúc đó em không biết mình ở đâu. Sau này cảnh sát hoặc người hỗ trợ nói với em đó là Edinburgh/Leith."
+          "text": "Lan nên nói rõ: lúc đó em không biết mình ở đâu. Sau này cảnh sát hoặc người hỗ trợ nói với em đó là Leith Docks, Edinburgh."
         },
         {
           "label": "Làm sao nhớ địa danh cũ?",
@@ -713,7 +753,7 @@
         },
         {
           "label": "Sergey bây giờ ở đâu?",
-          "text": "Lan có thể nói: em không biết. Em chỉ biết ông ta ở Nga, có thể từng ở Saint Petersburg hoặc Moscow."
+          "text": "Lan có thể nói: em không biết. Em chỉ biết ông ta từng ở Nga/Saint Petersburg; em không biết ông ta có ở Anh không."
         }
       ]
     }
